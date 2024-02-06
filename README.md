@@ -1,4 +1,4 @@
-# Albert Redo-Sanchez's portfolio
+# Portfolio
 
 This repository contains my portfolio and various academic resources and it is structured in fhe following sections:
 
@@ -8,8 +8,7 @@ This repository contains my portfolio and various academic resources and it is s
    - Academic
    - Media
 3. Publications
-   - Journal papers
-   - Conferences
+   - Journal and conference papers
    - Book chapters
    - Patents
 4. Resources
