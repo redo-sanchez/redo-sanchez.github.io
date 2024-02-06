@@ -4,9 +4,10 @@ This repository contains my portfolio and various academic resources. It is
 structured in fhe following sections:
 
 1. Home
-2. Highlights:
+2. Highlights
    1. Professional
    2. Academic
+   3. Media
 3. Publications
    1. Journal papers
    2. Conferences
