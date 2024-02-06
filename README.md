@@ -1,7 +1,6 @@
 # Portfolio
 
 This repository contains my professional and academic portfolio, and various resources.
-
 It is structured in fhe following sections:
 
 1. Home
