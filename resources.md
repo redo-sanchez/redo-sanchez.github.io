@@ -4,4 +4,4 @@ title: Resources
 permalink: /resources/
 ---
 
-Various resources here.
+Various resources will go here.
