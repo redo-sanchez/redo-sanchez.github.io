@@ -1,3 +1,3 @@
-# Albert Redo-Sanchez's portfolio and academic resources
+# Albert Redo-Sanchez's github.io repository
 
-This site will contain my portfolio and academic resources.
+This repository contains my portfolio and various academic resources.
