@@ -14,4 +14,4 @@ It is structured in fhe following sections:
    - Patents
 4. Resources
 5. Blog
-6. Contact
+6. About
