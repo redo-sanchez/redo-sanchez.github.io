@@ -16,7 +16,7 @@
 title: Portfolio and academic resources
 email: aredo@unizar.es
 description: Professional portfolio and academic resouces.
-baseurl: /blog # the subpath of your site, e.g. /blog
+baseurl: ""
 url: https://redo-sanchez.github.io/
 github_username:  redo-sanchez
 
