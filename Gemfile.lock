@@ -134,6 +134,8 @@ GEM
       octokit (~> 4.0, != 4.4.0)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
+    jekyll-latex (1.2.0)
+      polytexnic (~> 1.8)
     jekyll-mentions (1.6.0)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
@@ -206,6 +208,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
+    json (2.3.1)
     kramdown (2.3.2)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -220,6 +223,7 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.22.0)
+    msgpack (1.2.10)
     mutex_m (0.2.0)
     net-http (0.4.1)
       uri
@@ -230,7 +234,14 @@ GEM
       sawyer (~> 0.9)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    polytexnic (1.8.0)
+      json (~> 2.3.0)
+      kramdown (>= 2.0, < 3.0)
+      msgpack (~> 1.2.0)
+      nokogiri (>= 1.6.0, < 2.0)
+      pygments.rb (~> 2.1)
     public_suffix (4.0.7)
+    pygments.rb (2.4.1)
     racc (1.7.3)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
@@ -273,6 +284,7 @@ DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.6)
+  jekyll-latex (~> 1.2)
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (>= 1, < 3)
