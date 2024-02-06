@@ -13,5 +13,4 @@ It is structured in fhe following sections:
    - Book chapters
    - Patents
 4. Resources
-5. Blog
-6. About
+5. About
