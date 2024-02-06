@@ -18,7 +18,7 @@ email: aredo@unizar.es
 description: Professional portfolio and academic resouces.
 baseurl: ""
 url: https://redo-sanchez.github.io/
-github_username:  redo-sanchez
+github_username: redo-sanchez
 
 # Build settings
 markdown: kramdown
