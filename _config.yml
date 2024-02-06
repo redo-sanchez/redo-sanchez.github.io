@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Albert Redo-Sanchez's portfolio and academic resources
 email: aredo@unizar.es
-description: Professional portfolio and academic resouces.
+description: github.io repository
 baseurl: ""
 url: https://redo-sanchez.github.io/
 github_username: redo-sanchez
