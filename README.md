@@ -1,6 +1,8 @@
 # Portfolio
 
-This repository contains my portfolio and various academic resources and it is structured in fhe following sections:
+This repository contains my professional and academic portfolio, and various resources.
+
+It is structured in fhe following sections:
 
 1. Home
 2. Highlights
