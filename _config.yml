@@ -20,12 +20,17 @@ baseurl: ""
 url: https://redo-sanchez.github.io/
 github_username: redo-sanchez
 
+header_pages:
+  - index.md
+  - highlights.md
+  - resources.md
+  - about.md
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-latex
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
