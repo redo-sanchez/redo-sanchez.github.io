@@ -23,6 +23,7 @@ github_username: redo-sanchez
 header_pages:
   - index.md
   - highlights.md
+  - publications.md
   - resources.md
   - about.md
 
