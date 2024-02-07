@@ -25,6 +25,7 @@ header_pages:
   - highlights.md
   - publications.md
   - resources.md
+  - misc.md
   - about.md
 
 # Build settings
