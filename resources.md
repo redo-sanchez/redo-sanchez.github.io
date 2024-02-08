@@ -10,7 +10,7 @@ To request a tutoring session, reserve your slot through [here](https://calendar
 
 ## Computational Imaging [69155]
 
-Course website [here](https://sia.unizar.es/doa/consultaPublica/look%5Bconpub%5DMostrarPubGuiaDocAs?entradaPublica=true&idiomaPais=en.GB&_anoAcademico=2022&_codAsignatura=69155)
+Course syllabus [here](https://sia.unizar.es/documentos/doa/guiadocente/2022/69155_en.pdf)
 
 ### Laboratory
 
@@ -23,4 +23,6 @@ Course website [here](https://sia.unizar.es/doa/consultaPublica/look%5Bconpub%5D
 #### Session 4: Back-projection
 
 
-## Fundamentos de informática
+## Fundamentos de informática [30007]
+
+Course syllabus [here](https://sia.unizar.es/documentos/doa/guiadocente/2022/30007_es.pdf)
