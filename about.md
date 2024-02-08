@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Contact information will go here.
-
+Details about the tools to build this website will go here.
