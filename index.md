@@ -25,15 +25,9 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 \
 The portfolio on this site is structured in the following sections:
 
-- [Highlights](highlights):
-  - Professional
-  - Academic
-- [Publications](publications):
-  - Journal papers
-  - Conference papers
-  - Invited talks
-  - Seminars and workshops
-  - Patents
+- [Academic](academic)
+- [Professional](professional)
+- [Publications](publications)
 - [Media](media)
 - [Resources](resources)
 - [About](about)
