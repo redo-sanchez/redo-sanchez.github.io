@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
+
 ## Journal papers
 
 1. Luesia, P., Crespo, M., Jarabo, A., & **Redo-Sanchez, A.** (2022). Non-line-of-sight imaging in the presence of scattering media using phasor fields. Optics Letters. [doi: 10.1364/ol.463296](https://opg.optica.org/ol/fulltext.cfm?uri=ol-47-15-3796&id=481513)
@@ -42,46 +43,46 @@ permalink: /publications/
 ## Invited talks
 
 1. Onyx 2D materials inspector. Graphene Conference, Barcelona, Large-scale manufacturing graphene
-and talk in Barcelona, March 30th 2017
+and talk in Barcelona, March 30th 2017.
 2. Terahertz in art and cultural heritage inspection: present and future. Eastern Analytical Symposium,
-Somerset NJ, Nov. 16th 2015
+Somerset NJ, Nov. 16th 2015.
 3. Cultural heritage inspection applications with terahertz waves based on reading a closed book.
 Primera Reunion Mexicana de Ciencia y Tecnologia de Terahertz, Leon, Guanajuato, Mexico, Oct.
-2015
+2015.
 4. Portable open-field terahertz instrumentation. Pittcon conference, Philadelphia PA, United States,
-Mar. 2013
-5. Zomega terahertz corporation overview. RFIC panel sessions, Montreal, Canada, June 2012
+Mar. 2013.
+5. Zomega terahertz corporation overview. RFIC panel sessions, Montreal, Canada, June 2012.
 6. Frontiers of terahertz time-domain imaging. Arizona State University, Tempe AZ, United States,
-Jan. 2012
+Jan. 2012.
 7. THz time-domain spectroscopy for food and pharmaceutical applications. Universitat de Barcelona,
-Barcelona, Spain, Jan. 2010
+Barcelona, Spain, Jan. 2010.
 8. Terahertz science and technology review. Universidad Politecnica de Madrid, Madrid, Spain, July
-2009
+2009.
 9. Terahertz science and technology review. Universitat Politecnica de Catalunya, Barcelona, Spain,
-May 2009
+May 2009.
 10. Terahertz science and technology for security applications. Upstate New York electronic crimes
-coalition conference, Troy NY, United States, Nov. 2007
+coalition conference, Troy NY, United States, Nov. 2007.
 11. Sensing explosive and related compounds with terahertz technology: from laboratory demonstration
-to open field applications. Gordon Research Conference, Big Sky MT, United States, Sept. 2007
+to open field applications. Gordon Research Conference, Big Sky MT, United States, Sept. 2007.
 12. Damage and defect inspection with terahertz waves. University at Dartmouth, Dartmouth MA,
-United States, June 2006
-13. Continuous-wave terahertz systems. Capital Normal University, Beijing, China, Mar. 2006
+United States, June 2006.
+13. Continuous-wave terahertz systems. Capital Normal University, Beijing, China, Mar. 2006.
 14. Sensing and imaging with CW terahertz systems. Quantitative Non-Destructive Evaluation Conference,
-Brunswick ME, United States, July 2005
+Brunswick ME, United States, July 2005.
 15. Sensing and imaging with continuous-wave terahertz. Rensselaer Polytechnic Institute, Troy NY,
-United States, Oct. 2005
-16. Terahertz applications in solid state physics. University of Barcelona, Barcelona, Spain, Sept. 2005
+United States, Oct. 2005.
+16. Terahertz applications in solid state physics. University of Barcelona, Barcelona, Spain, Sept. 2005.
 
 
 ## Seminars and workshops
 
-1. Terahertz spectroscopy workshop. EPFL, Lausanne, Switzerland, Feb. 2013
+1. Terahertz spectroscopy workshop. EPFL, Lausanne, Switzerland, Feb. 2013.
 2. Terahertz instrumentation status and market outlook. 2012 Workshop on terahertz science instruments
-and frontier technology, Beijing, China, Aug. 2012
+and frontier technology, Beijing, China, Aug. 2012.
 3. Practical guide to develop terahertz systems. Universitat Politècnica de Catalunya, Barcelona,
-Spain, June 2010
+Spain, June 2010.
 4. Terahertz systems integration constraints. Universitat Politècnica de Catalunya, Barcelona, Spain,
-May 2009
+May 2009.
 
 
 ## Patents
