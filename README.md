@@ -2,8 +2,9 @@
 
 Distinguished Professor in the [Graphics and Imaging Lab](https://graphics.unizar.es/) research group at the [Universidad de Zaragoza](https://eina.unizar.es/)
 \
-E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 \
+E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
+
 **Linked-In** profile link [here](https://www.linkedin.com/in/redosanchez/)
 
 **Google Scholar** profile link [here](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en)
