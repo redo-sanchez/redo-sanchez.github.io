@@ -31,7 +31,8 @@ The portfolio on this site is structured in the following sections:
 - [Publications](publications):
   - Journal papers
   - Conference papers
-  - Conference talks
+  - Invited talks
+  - Seminars and workshops
   - Patents
 - [Media](media)
 - [Resources](resources)
