@@ -9,7 +9,7 @@ title: Home
 
 Distinguished Professor in the [Graphics and Imaging Lab](https://graphics.unizar.es/) research group at the [Universidad de Zaragoza](https://eina.unizar.es/)
 
-E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
+E-mail: [albert@redo-sanchez.net](mailto:albert@redo-sanchez.net)
 \
 \
 \
@@ -31,7 +31,8 @@ The portfolio on this site is structured in the following sections:
 - [Publications](publications):
   - Journal papers
   - Conference papers
-  - Conference talks
+  - Invited talks
+  - Seminars and workshops
   - Patents
 - [Media](media)
 - [Resources](resources)
