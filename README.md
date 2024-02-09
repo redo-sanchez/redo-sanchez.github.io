@@ -5,7 +5,9 @@ Distinguished Professor in the [Graphics and Imaging Lab](https://graphics.uniza
 E-mail: [albert@redo-sanchez.net](mailto:albert@redo-sanchez.net)
 \
 **Linked-In** profile link [here](https://www.linkedin.com/in/redosanchez/)
+
 **Google Scholar** profile link [here](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en)
+
 **ORCID ID:** [0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820)
 \
 \
