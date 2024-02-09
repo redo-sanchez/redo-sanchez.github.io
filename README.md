@@ -1,4 +1,6 @@
-# Albert Redo-Sanchez, PhD
+# Portfolio
+
+## Albert Redo-Sanchez, PhD
 
 Distinguished Professor in the [Graphics and Imaging Lab](https://graphics.unizar.es/) research group at the [Universidad de Zaragoza](https://eina.unizar.es/)
 \
