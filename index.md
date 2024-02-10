@@ -22,10 +22,33 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 **Sideral** profile link [here](https://janovas.unizar.es/sideral/CV/albert-redo-sanchez)
 
 **Linked-In** profile link [here](https://www.linkedin.com/in/redosanchez/)
-\
-\
-\
-The portfolio on this site is structured in the following sections:
+
+
+## Skillset
+
+- **Research:**
+  - Experiment design and execution, data modeling, data analysis, and reporting
+  - Feasibility/proof of concept experiments, system prototyping and testing up to minimum viable product
+- **Code/data processing:**
+  - Python, C/C++
+  - Matlab
+  - Mathematica
+  - LabView
+- **Design:**
+  - Zemax
+  - SolidWorks
+  - Fusion360
+  - VRED
+- **Manager:**
+  - Project planning, execution, and supervision
+  - Proposal writting and funding
+- **Sales and business development:**
+  - Customer requirements collection and analysis
+  - Management of relationships with distributors
+  - Comercial products development
+
+
+## Portfolio structure
 
 - [Professional](professional)
 - [Academic](academic)
