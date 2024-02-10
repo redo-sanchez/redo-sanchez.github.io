@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-![Profile picture](/assets/images/foto_pro.jpg){: width="160px" style="float:left; padding-right:30px" }
+![Profile picture](/assets/images/foto_pro.jpg){: width="165px" style="float:left; padding-right:30px" }
 
 # Albert Redo-Sanchez, PhD
 
@@ -15,11 +15,13 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 \
 \
 \
-**Linked-In** profile link [here](https://www.linkedin.com/in/redosanchez/)
+**ORCID ID:** [0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820)
 
 **Google Scholar** profile link [here](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en)
 
-**ORCID ID:** [0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820)
+**Sideral** profile link [here](https://janovas.unizar.es/sideral/CV/albert-redo-sanchez)
+
+**Linked-In** profile link [here](https://www.linkedin.com/in/redosanchez/)
 \
 \
 \
