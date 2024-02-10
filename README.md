@@ -16,8 +16,8 @@ E-mail: [albert@redo-sanchez.net](mailto:albert@redo-sanchez.net)
 \
 The portfolio on this site is structured in the following sections:
 
-- Academic
 - Professional
+- Academic
 - Publications:
 - Media
 - Resources

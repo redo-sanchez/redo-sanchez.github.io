@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Portfolio
-email: aredo@unizar.es
+email: albert@redo-sanchez.net
 description: github.io repository
 baseurl: ""
 url: https://redo-sanchez.github.io/
@@ -22,8 +22,8 @@ github_username: redo-sanchez
 
 header_pages:
   - index.md
-  - academic.md
   - professional.md
+  - academic.md
   - publications.md
   - media.md
   - resources.md
