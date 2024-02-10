@@ -3,15 +3,15 @@ layout: page
 title: Home
 ---
 
-![Profile picture](/assets/images/foto_pro.jpg){: width="180px" style="float:left; padding-right:30px" }
+![Profile picture](/assets/images/foto_pro.jpg){: width="160px" style="float:left; padding-right:30px" }
 
 # Albert Redo-Sanchez, PhD
 
-Distinguished Professor in the [Graphics and Imaging Lab](https://graphics.unizar.es/) research group at the [Universidad de Zaragoza](https://eina.unizar.es/)
+Distinguished Professor at the [Universidad de Zaragoza](https://eina.unizar.es/)
 
-E-mail: [albert@redo-sanchez.net](mailto:albert@redo-sanchez.net)
-\
-\
+Research group: [Graphics and Imaging Lab](https://graphics.unizar.es/)
+
+E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 \
 \
 \

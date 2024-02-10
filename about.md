@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 ## License
 
 Copyright (c) 2024 Albert Redo-Sanchez
