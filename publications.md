@@ -5,6 +5,13 @@ permalink: /publications/
 ---
 
 
+- [Journal papers](#journal-papers)
+- [Conference papers](#conference-papers)
+- [Invited talks](#invited-talks)
+- [Seminars and workshops](#seminars-and-workshops)
+- [Patents](#patents)
+
+
 ## Journal papers
 
 1. Luesia, P., Crespo, M., Jarabo, A., & **Redo-Sanchez, A.** (2022). Non-line-of-sight imaging in the presence of scattering media using phasor fields. Optics Letters. [doi: 10.1364/ol.463296](https://opg.optica.org/ol/fulltext.cfm?uri=ol-47-15-3796&id=481513)

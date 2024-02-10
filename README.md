@@ -16,8 +16,8 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 \
 The portfolio on this site is structured in the following sections:
 
-- Academic
 - Professional
+- Academic
 - Publications:
 - Media
 - Resources
