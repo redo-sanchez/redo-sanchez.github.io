@@ -19,8 +19,6 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 
 **Google Scholar** profile link [here](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en)
 
-**Sideral** profile link [here](https://janovas.unizar.es/sideral/CV/albert-redo-sanchez)
-
 **Linked-In** profile link [here](https://www.linkedin.com/in/redosanchez/)
 
 
@@ -48,7 +46,7 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
   - Comercial products development
 
 
-## Portfolio structure
+## Portfolio's chapters
 
 - [Professional](professional)
 - [Academic](academic)
