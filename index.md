@@ -25,8 +25,8 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 ## Skillset
 
 - **Research:**
-  - Experiment design and execution, data modeling, data analysis, and reporting
-  - Feasibility/proof of concept experiments, system prototyping and testing up to minimum viable product
+  - Experiment design, execution, data modeling, data analysis, and reporting
+  - Proof of concept experiments and prototyping up to minimum viable product
 - **Code/data processing:**
   - Python, C/C++
   - Matlab
@@ -43,14 +43,4 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 - **Sales and business development:**
   - Customer requirements collection and analysis
   - Management of relationships with distributors
-  - Comercial products development
-
-
-## Portfolio's chapters
-
-- [Professional](professional)
-- [Academic](academic)
-- [Publications](publications)
-- [Media](media)
-- [Resources](resources)
-- [About](about)
+  - Comercial product development
