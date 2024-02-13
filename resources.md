@@ -11,5 +11,5 @@ To request a tutoring session, reserve your slot through [here](https://calendar
 
 Courses:
 
-- [**Computational Imaging [69155]**](https://sia.unizar.es/documentos/doa/guiadocente/2022/69155_en.pdf)
-- [**Fundamentos de informática [30007]**](https://sia.unizar.es/documentos/doa/guiadocente/2022/30007_es.pdf)
+- [Computational Imaging [69155]](https://sia.unizar.es/documentos/doa/guiadocente/2022/69155_en.pdf)
+- [Fundamentos de informática [30007]](https://sia.unizar.es/documentos/doa/guiadocente/2022/30007_es.pdf)
