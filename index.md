@@ -17,9 +17,9 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 \
 **ORCID ID:** [0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820)
 
-**Google Scholar** profile link [here](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en)
+**Google Scholar** profile [here](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en)
 
-**Linked-In** profile link [here](https://www.linkedin.com/in/redosanchez/)
+**Linked-In** profile [here](https://www.linkedin.com/in/redosanchez/)
 
 
 ## Skillset
