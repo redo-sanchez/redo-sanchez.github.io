@@ -27,4 +27,4 @@ permalink: /resources/
 
 - [Zaragoza NLOS synthetic dataset](https://graphics.unizar.es/nlos_dataset): synthetic Non-Line-of-Sight scenes rendered using the publicly available transient renderer from Jarabo et al's work in [A Framework for Transient Rendering](http://giga.cps.unizar.es/~ajarabo/pubs/transientSIGA14/) 
 - [(Your)-Transient Auxiliary Library](https://github.com/diegoroyo/tal): Toolkit for simulation and analysis of time-resolved light transport captures
-- [Mitsuba 3 - Physically Based Rendered](https://www.mitsuba-renderer.org/): a research-oriented retargetable rendering system, written in portable C++17 on top of the Dr.Jit Just-In-Time compiler (developed by the [Realistic Graphics Lab](https://rgl.epfl.ch/) at EPFL)
+- [Mitsuba 3 - Physically Based Rendered](https://www.mitsuba-renderer.org/): a research-oriented retargetable rendering system, written in portable C++17 on top of the Dr. Jit Just-In-Time compiler (developed by the [Realistic Graphics Lab](https://rgl.epfl.ch/) at EPFL)
