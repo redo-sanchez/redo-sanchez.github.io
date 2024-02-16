@@ -15,7 +15,7 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 \
 \
 \
-| **ORCID ID:** [0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820) | **Google Scholar** profile [here](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en) | **Linked-In** profile [here](https://www.linkedin.com/in/redosanchez/) |
+| **ORCID:** [0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820) | **Google Scholar** profile [here](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en) | **Linked-In** profile [here](https://www.linkedin.com/in/redosanchez/) |
 
 ## Research areas
 
