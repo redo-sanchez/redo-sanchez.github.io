@@ -26,7 +26,7 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 
 - **Research:**
   - Experiment design, execution, data modeling, data analysis, and reporting
-  - Proof of concept experiments and prototyping up to minimum viable product
+  - Proof of concept experiments and prototyping up to minimum viable product (MVP)
 - **Code/data processing:**
   - Python, C/C++
   - Matlab
