@@ -21,6 +21,8 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 
 **Linked-In** profile [here](https://www.linkedin.com/in/redosanchez/)
 
+**Research areas:** non-line-of-sight (NLOS) imaging, transient imaging, modeling and simulation, terahertz, non-destructive testing
+
 
 ## Skillset
 
