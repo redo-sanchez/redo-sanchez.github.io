@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-# Teaching at Universidad de Zaragoza
+# Teaching at the Universidad de Zaragoza
 
 **Office hours:**
 
