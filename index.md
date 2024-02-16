@@ -19,30 +19,21 @@ E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 
 ## Research areas
 
-- Non-line-of-sight (NLOS) imaging
-- Transient imaging
-- Computer vision
-- Machine learning
+- Non-line-of-sight (NLOS) imaging and transient imaging
+- Computer vision and machine learning
 - Modeling and simulation
-- Terahertz
-- Non-destructive testing
+- Terahertz and non-destructive testing
 
 
 ## Skillset
 
+- **Code/data processing:**
+  - Python, C/C++, Matlab, Mathematica, LabView
+- **Design:**
+  - Zemax, SolidWorks, Fusion360, VRED
 - **Research:**
   - Experiment design, execution, data modeling, data analysis, and reporting
   - Proof of concept experiments and prototyping up to minimum viable product (MVP)
-- **Code/data processing:**
-  - Python, C/C++
-  - Matlab
-  - Mathematica
-  - LabView
-- **Design:**
-  - Zemax
-  - SolidWorks
-  - Fusion360
-  - VRED
 - **Manager:**
   - Project planning, execution, and supervision
   - Proposal writting and funding
