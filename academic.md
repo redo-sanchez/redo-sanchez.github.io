@@ -5,12 +5,25 @@ permalink: /academic/
 ---
 
 
+- [**Universidad de Zaragoza (current)**](#universidad-de-zaragoza-current)
 - [Massachussets Insitute of Technology](#massachussets-insitute-of-technology)
 - [Rensselaer Polytechnic Institute](#rensselaer-polytechnic-institute)
 - [University of Barcelona](#university-of-barcelona)
 
 
+## **Universidad de Zaragoza (current)**
+
+_Distinguished Researcher_
+
+- Co-principal investigator in project ENLIGHTEN by the [European Defence Fund](https://defence-industry-space.ec.europa.eu/eu-defence-industry/european-defence-fund-edf_en)
+- Cohesive framework for non-line-of-sight imaging based on Dirac notation
+- Non-line-of-sight imaging in the presence of scattering media using phasor fields (paper [here](https://opg.optica.org/ol/fulltext.cfm?uri=ol-47-15-3796&id=481513))
+- [Teaching](/resources.md)
+
+
 ## Massachussets Insitute of Technology
+
+_Research Scientist_
 
 - Researched and developed the reading through a closed book proof of concept
 - Researched and developed new algorithms for anlyzing time-domain volumetric data
@@ -23,6 +36,8 @@ permalink: /academic/
 
 
 ## Rensselaer Polytechnic Institute
+
+_Research Assistant Professor_
 
 - Invented a method to analyze terahertz spectra without the need of a reference
 - Developed an ultrafast scanner for a fast terahertz imaging
@@ -37,6 +52,8 @@ permalink: /academic/
 
 
 ## University of Barcelona
+
+_Postdoctoral associate_
 
 - Researched the application of terahertz imaging technology for cultural heritage inspection
 - Researched terahertz spectroscopy for pharmaceutical applications

@@ -8,7 +8,7 @@ permalink: /resources/
 
 **Office hours:**
 
-- To request a tutoring session, reserve your slot through [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0MISOXIgUF9qMgWWcyzb0xzHCPBS1IYBj_ZElXwzTaBfGxXz6YLtd0fWN2-w5Bf8mA-uvZ6qjm)
+- To request a tutoring session, reserve your slot through [**here**](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0MISOXIgUF9qMgWWcyzb0xzHCPBS1IYBj_ZElXwzTaBfGxXz6YLtd0fWN2-w5Bf8mA-uvZ6qjm)
 
 
 **Courses:**
@@ -25,6 +25,6 @@ permalink: /resources/
 
 **Repositories:**
 
-- [Zaragoza NLOS synthetic dataset](https://graphics.unizar.es/nlos_dataset): synthetic non-line-of-sight scenes rendered using the publicly available transient renderer from Jarabo et al's work in [_A Framework for Transient Rendering_](http://giga.cps.unizar.es/~ajarabo/pubs/transientSIGA14/) 
-- [(Your)-Transient Auxiliary Library](https://github.com/diegoroyo/tal): toolkit for simulation and analysis of time-resolved light transport captures
-- [Mitsuba 3 - Physically Based Rendered](https://www.mitsuba-renderer.org/): a research-oriented retargetable rendering system, written in portable C++17 on top of the Dr. Jit Just-In-Time compiler (developed by the [Realistic Graphics Lab](https://rgl.epfl.ch/) at EPFL)
+- [**Zaragoza NLOS synthetic dataset**](https://graphics.unizar.es/nlos_dataset): synthetic non-line-of-sight scenes rendered using the publicly available transient renderer from Jarabo et al's work in [_A Framework for Transient Rendering_](http://giga.cps.unizar.es/~ajarabo/pubs/transientSIGA14/) 
+- [**(Your)-Transient Auxiliary Library**](https://github.com/diegoroyo/tal): toolkit for simulation and analysis of time-resolved light transport captures
+- [**Mitsuba 3 - Physically Based Rendered**](https://www.mitsuba-renderer.org/): a research-oriented retargetable rendering system, written in portable C++17 on top of the Dr. Jit Just-In-Time compiler (developed by the [Realistic Graphics Lab](https://rgl.epfl.ch/) at EPFL)
