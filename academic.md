@@ -30,7 +30,7 @@ _Research Scientist_
 - Designed compact optical devices for portable eye diagnosis applications
 - Wrote research grants and mentored Ph.D. students
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wj5vUwQx4v0?si=H_KUwPcG6FqunkQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="395" src="https://www.youtube.com/embed/wj5vUwQx4v0?si=H_KUwPcG6FqunkQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe src="https://onedrive.live.com/embed?resid=F5F1ECEA6F58D121%21598240&authkey=!ACCjyHzywylVvkE&em=2" width="700" height="395" frameborder="0" scrolling="no"></iframe>
 
@@ -46,7 +46,7 @@ _Research Assistant Professor_
 - Researched statistical and machine-learning algorithms for spectral analysis
 - Wrote research proposal and supervised Ph.D. students
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wj5vUwQx4v0?si=H_KUwPcG6FqunkQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="395" src="https://www.youtube.com/embed/wj5vUwQx4v0?si=H_KUwPcG6FqunkQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe src="https://onedrive.live.com/embed?resid=F5F1ECEA6F58D121%21598142&authkey=!AHc0io9d3dXoZK8&em=2" width="700" height="395" frameborder="0" scrolling="no"></iframe>
 
