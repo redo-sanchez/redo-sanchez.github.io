@@ -37,49 +37,51 @@ permalink: /pages/publications/
 
 ## Conference papers
 
-1. Cordon, A., Miranda, L., Martinez, C., Ines, A., Etayo, D., Fernandez, M., Rodriguez, P., Taboada, E., **Redo-Sanchez, A.**, Castrillo, M., Laso, A. G. Miguel, & Arnedo, I. (2019). THz to Inspect Graphene and Thin Film Materials (IEEE, Ed.). [doi: 10.1109/irmmw-thz.2019.8874447](https://ieeexplore.ieee.org/document/8874447)
-2. Callegaro, L., Cassiago, C., Cultrera, A., D’Elia, V., Serazio, D., Ortolano, M., Marzano, M., Kazakova, O., Melios, C., Raso, F., Matias, L., Zurutuza, A., Centeno, A., **Redo-Sanchez, A.**, Kretinin, A., Sann-Ferro, K., Fabricius, A., Weking, G., Bergholz, W., & Fabricius, N. (2018). GRACE: Developing Electrical Characterisation Methods for Future Graphene Electronics. [doi: 10.1109/cpem.2018.8501012](https://ieeexplore.ieee.org/document/8501012)
-3. Satat, G., Heshmat, B., Naik, N., **Redo-Sanchez, A.**, & Raskar, R. (2016). Advances in ultrafast optics and imaging applications. Ultrafast Bandgap Photonics, 98350Q-98350Q – 13. [doi: 10.1117/12.2222438](https://doi.org/10.1117/12.2222438)
-4. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2014). Non-destructive imaging with compact and portable terahertz systems. AIP Conference Proceedings, 1581(1), 1583–1587. [doi: 10.1063/1.4865012](https://doi.org/10.1063/1.4865012)
-5. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2013). Compact, portable Terahertz systems for on-site inspection applications. 2013 38th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz), 1–1. [doi: 10.1109/irmmw-thz.2013.6665510](https://ieeexplore.ieee.org/document/6665510)
-6. Song, Q., **Redo-Sanchez, A.**, Zhao, Y., & Zhang, C. (2008). High speed imaging with CW THz for security. 2008 International Conference on Optical Instruments and Technology: Optoelectronic Measurement Technology and Applications, 716016-716016–716018. [doi: 10.1117/12.807197](https://doi.org/10.1117/12.807197)
-7. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2006). THz wave standoff detection of explosive materials. Terahertz for Military and Security Applications IV, 62120L-62120L – 8. [doi: 10.1117/12.665360](https://doi.org/10.1117/12.665360)
-8. **Redo-Sanchez, A.**, Karpowicz, N., Xu, J., & Zhang, X.-C. (2006). Damage and defect inspection with terahertz waves. The 4th International Workshop on Ultrasonic and Advanced Methods for Nondestructive Testing and Material Characterization.
-9. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2005). Standoff Distance Detection of Explosive Materials with THz Waves. 2005 Joint 30th International Conference on Infrared and Millimeter Waves and 13th International Conference on Terahertz Electronics, 1, 42–43. [doi: 10.1109/icimw.2005.1572397](https://ieeexplore.ieee.org/document/1572397)
+1. Pueyo-Ciutad, O., Marco, J., Schertzer, S., Christnacher, F., Laurenzis, M., Gutierrez, D., & **Redo-Sanchez, A.** (2024). Time-Gated Polarization for Active Non-Line-Of-Sight Imaging. SIGGRAPH Asia 2024 Conference Papers, 1–11. Tokyo, Japan: Association for Computing Machinery. [doi: 10.1145/3680528.3687575](https://dl.acm.org/doi/10.1145/3680528.3687575)
+2. Cordon, A., Miranda, L., Martinez, C., Ines, A., Etayo, D., Fernandez, M., Rodriguez, P., Taboada, E., **Redo-Sanchez, A.**, Castrillo, M., Laso, A. G. Miguel, & Arnedo, I. (2019). THz to Inspect Graphene and Thin Film Materials (IEEE, Ed.). [doi: 10.1109/irmmw-thz.2019.8874447](https://ieeexplore.ieee.org/document/8874447)
+3. Callegaro, L., Cassiago, C., Cultrera, A., D’Elia, V., Serazio, D., Ortolano, M., Marzano, M., Kazakova, O., Melios, C., Raso, F., Matias, L., Zurutuza, A., Centeno, A., **Redo-Sanchez, A.**, Kretinin, A., Sann-Ferro, K., Fabricius, A., Weking, G., Bergholz, W., & Fabricius, N. (2018). GRACE: Developing Electrical Characterisation Methods for Future Graphene Electronics. [doi: 10.1109/cpem.2018.8501012](https://ieeexplore.ieee.org/document/8501012)
+4. Satat, G., Heshmat, B., Naik, N., **Redo-Sanchez, A.**, & Raskar, R. (2016). Advances in ultrafast optics and imaging applications. Ultrafast Bandgap Photonics, 98350Q-98350Q – 13. [doi: 10.1117/12.2222438](https://doi.org/10.1117/12.2222438)
+5. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2014). Non-destructive imaging with compact and portable terahertz systems. AIP Conference Proceedings, 1581(1), 1583–1587. [doi: 10.1063/1.4865012](https://doi.org/10.1063/1.4865012)
+6. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2013). Compact, portable Terahertz systems for on-site inspection applications. 2013 38th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz), 1–1. [doi: 10.1109/irmmw-thz.2013.6665510](https://ieeexplore.ieee.org/document/6665510)
+7. Song, Q., **Redo-Sanchez, A.**, Zhao, Y., & Zhang, C. (2008). High speed imaging with CW THz for security. 2008 International Conference on Optical Instruments and Technology: Optoelectronic Measurement Technology and Applications, 716016-716016–716018. [doi: 10.1117/12.807197](https://doi.org/10.1117/12.807197)
+8. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2006). THz wave standoff detection of explosive materials. Terahertz for Military and Security Applications IV, 62120L-62120L – 8. [doi: 10.1117/12.665360](https://doi.org/10.1117/12.665360)
+9. **Redo-Sanchez, A.**, Karpowicz, N., Xu, J., & Zhang, X.-C. (2006). Damage and defect inspection with terahertz waves. The 4th International Workshop on Ultrasonic and Advanced Methods for Nondestructive Testing and Material Characterization.
+10. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2005). Standoff Distance Detection of Explosive Materials with THz Waves. 2005 Joint 30th International Conference on Infrared and Millimeter Waves and 13th International Conference on Terahertz Electronics, 1, 42–43. [doi: 10.1109/icimw.2005.1572397](https://ieeexplore.ieee.org/document/1572397)
 
 
 ## Invited talks
 
-1. Onyx 2D materials inspector. Graphene Conference, Barcelona, Large-scale manufacturing graphene
+1. Dirac notation and cohesive framework for non-line-of-sight (NLOS) imaging. Optics, Photonics and Lasers, Valencia, Nov. 26th 2024.
+2. Onyx 2D materials inspector. Graphene Conference, Barcelona, Large-scale manufacturing graphene
 and talk in Barcelona, March 30th 2017.
-2. Terahertz in art and cultural heritage inspection: present and future. Eastern Analytical Symposium,
+1. Terahertz in art and cultural heritage inspection: present and future. Eastern Analytical Symposium,
 Somerset NJ, Nov. 16th 2015.
-3. Cultural heritage inspection applications with terahertz waves based on reading a closed book.
+1. Cultural heritage inspection applications with terahertz waves based on reading a closed book.
 Primera Reunion Mexicana de Ciencia y Tecnologia de Terahertz, Leon, Guanajuato, Mexico, Oct.
 2015.
-4. Portable open-field terahertz instrumentation. Pittcon conference, Philadelphia PA, United States,
+1. Portable open-field terahertz instrumentation. Pittcon conference, Philadelphia PA, United States,
 Mar. 2013.
-5. Zomega terahertz corporation overview. RFIC panel sessions, Montreal, Canada, June 2012.
-6. Frontiers of terahertz time-domain imaging. Arizona State University, Tempe AZ, United States,
+1. Zomega terahertz corporation overview. RFIC panel sessions, Montreal, Canada, June 2012.
+2. Frontiers of terahertz time-domain imaging. Arizona State University, Tempe AZ, United States,
 Jan. 2012.
-7. THz time-domain spectroscopy for food and pharmaceutical applications. Universitat de Barcelona,
+1. THz time-domain spectroscopy for food and pharmaceutical applications. Universitat de Barcelona,
 Barcelona, Spain, Jan. 2010.
-8. Terahertz science and technology review. Universidad Politecnica de Madrid, Madrid, Spain, July
+1. Terahertz science and technology review. Universidad Politecnica de Madrid, Madrid, Spain, July
 2009.
-9. Terahertz science and technology review. Universitat Politecnica de Catalunya, Barcelona, Spain,
+1. Terahertz science and technology review. Universitat Politecnica de Catalunya, Barcelona, Spain,
 May 2009.
-10. Terahertz science and technology for security applications. Upstate New York electronic crimes
+1.  Terahertz science and technology for security applications. Upstate New York electronic crimes
 coalition conference, Troy NY, United States, Nov. 2007.
-11. Sensing explosive and related compounds with terahertz technology: from laboratory demonstration
+1.  Sensing explosive and related compounds with terahertz technology: from laboratory demonstration
 to open field applications. Gordon Research Conference, Big Sky MT, United States, Sept. 2007.
-12. Damage and defect inspection with terahertz waves. University at Dartmouth, Dartmouth MA,
+1.  Damage and defect inspection with terahertz waves. University at Dartmouth, Dartmouth MA,
 United States, June 2006.
-13. Continuous-wave terahertz systems. Capital Normal University, Beijing, China, Mar. 2006.
-14. Sensing and imaging with CW terahertz systems. Quantitative Non-Destructive Evaluation Conference,
+1.  Continuous-wave terahertz systems. Capital Normal University, Beijing, China, Mar. 2006.
+2.  Sensing and imaging with CW terahertz systems. Quantitative Non-Destructive Evaluation Conference,
 Brunswick ME, United States, July 2005.
-15. Sensing and imaging with continuous-wave terahertz. Rensselaer Polytechnic Institute, Troy NY,
+1.  Sensing and imaging with continuous-wave terahertz. Rensselaer Polytechnic Institute, Troy NY,
 United States, Oct. 2005.
-16. Terahertz applications in solid state physics. University of Barcelona, Barcelona, Spain, Sept. 2005.
+1.  Terahertz applications in solid state physics. University of Barcelona, Barcelona, Spain, Sept. 2005.
 
 
 ## Seminars and workshops
