@@ -10,7 +10,7 @@ The portfolio is structured in the following sections:
 
 - Professional
 - Academic
-- Publications:
+- Publications
 - Media
 - Resources
 - About
