@@ -8,8 +8,6 @@ permalink: /pages/publications/
 - [Journal papers](#journal-papers)
 - [Conference papers](#conference-papers)
 - [Patents](#patents)
-- [Invited talks](#invited-talks)
-- [Seminars and workshops](#seminars-and-workshops)
 
 
 ## Journal papers
@@ -66,49 +64,3 @@ permalink: /pages/publications/
 13. Sinha, S., Park, H., **Redo-Sanchez, A.**, Lawson, M. E., Savidis, N., Rachapudi, P., Raskar, R., & Patalano, V. (2018). Methods and Apparatus for Anterior Segment Ocular Imaging. United States Patent and Trademark Office, Patent No. [US-10105049-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10105049).
 14. López-Zorzano, A., Etayo-Salinas, D., Fernández-Vallejo, M., Chudzik, M., **Redo-Sanchez, A.**, & Azanza-Ladrón, E. (2018). Method for Characterising a Material with Layered Structure and a Measuring System. European Patent Office, Patent No. [EP-3516373](https://patentscope.wipo.int/search/en/detail.jsf?docId=EP249467446&_cid=P10-LSEGT4-36213-1).
 15. **Redo-Sanchez, A.** (2004). Device for separating, lifting and moving aluminium sheets or other non-ferromagnetic material. United States Patent and Trademark Office, Patent No. [US-6746063-B1](https://patentscope.wipo.int/search/en/detail.jsf?docId=US40567436).
-
-
-## Invited talks
-
-1. Dirac notation and cohesive framework for non-line-of-sight (NLOS) imaging. Optics, Photonics and Lasers, Valencia, Nov. 26th 2024.
-2. Onyx 2D materials inspector. Graphene Conference, Barcelona, Large-scale manufacturing graphene
-and talk in Barcelona, March 30th 2017.
-1. Terahertz in art and cultural heritage inspection: present and future. Eastern Analytical Symposium,
-Somerset NJ, Nov. 16th 2015.
-1. Cultural heritage inspection applications with terahertz waves based on reading a closed book.
-Primera Reunion Mexicana de Ciencia y Tecnologia de Terahertz, Leon, Guanajuato, Mexico, Oct.
-2015.
-1. Portable open-field terahertz instrumentation. Pittcon conference, Philadelphia PA, United States,
-Mar. 2013.
-1. Zomega terahertz corporation overview. RFIC panel sessions, Montreal, Canada, June 2012.
-2. Frontiers of terahertz time-domain imaging. Arizona State University, Tempe AZ, United States,
-Jan. 2012.
-1. THz time-domain spectroscopy for food and pharmaceutical applications. Universitat de Barcelona,
-Barcelona, Spain, Jan. 2010.
-1. Terahertz science and technology review. Universidad Politecnica de Madrid, Madrid, Spain, July
-2009.
-1. Terahertz science and technology review. Universitat Politecnica de Catalunya, Barcelona, Spain,
-May 2009.
-1.  Terahertz science and technology for security applications. Upstate New York electronic crimes
-coalition conference, Troy NY, United States, Nov. 2007.
-1.  Sensing explosive and related compounds with terahertz technology: from laboratory demonstration
-to open field applications. Gordon Research Conference, Big Sky MT, United States, Sept. 2007.
-1.  Damage and defect inspection with terahertz waves. University at Dartmouth, Dartmouth MA,
-United States, June 2006.
-1.  Continuous-wave terahertz systems. Capital Normal University, Beijing, China, Mar. 2006.
-2.  Sensing and imaging with CW terahertz systems. Quantitative Non-Destructive Evaluation Conference,
-Brunswick ME, United States, July 2005.
-1.  Sensing and imaging with continuous-wave terahertz. Rensselaer Polytechnic Institute, Troy NY,
-United States, Oct. 2005.
-1.  Terahertz applications in solid state physics. University of Barcelona, Barcelona, Spain, Sept. 2005.
-
-
-## Seminars and workshops
-
-1. Terahertz spectroscopy workshop. EPFL, Lausanne, Switzerland, Feb. 2013.
-2. Terahertz instrumentation status and market outlook. 2012 Workshop on terahertz science instruments
-and frontier technology, Beijing, China, Aug. 2012.
-3. Practical guide to develop terahertz systems. Universitat Politècnica de Catalunya, Barcelona,
-Spain, June 2010.
-4. Terahertz systems integration constraints. Universitat Politècnica de Catalunya, Barcelona, Spain,
-May 2009.
