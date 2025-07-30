@@ -9,6 +9,8 @@ permalink: /academic/
 - [Massachussets Insitute of Technology](#massachussets-insitute-of-technology)
 - [Rensselaer Polytechnic Institute](#rensselaer-polytechnic-institute)
 - [University of Barcelona](#university-of-barcelona)
+- [Invited talks](#invited-talks)
+- [Seminars and workshops](#seminars-and-workshops)
 
 
 ## **Universidad de Zaragoza (current)**
@@ -60,3 +62,49 @@ _Postdoctoral associate_
 - Established a laboratory for terahertz technology research
 
 <iframe src="https://onedrive.live.com/embed?resid=F5F1ECEA6F58D121%21598140&authkey=!AL_rMcHPf6tqG44&em=2" width="700" height="395" frameborder="0" scrolling="no"></iframe>
+
+
+## Invited talks
+
+1. Dirac notation and cohesive framework for non-line-of-sight (NLOS) imaging. Optics, Photonics and Lasers, Valencia, Nov. 26th 2024.
+2. Onyx 2D materials inspector. Graphene Conference, Barcelona, Large-scale manufacturing graphene
+and talk in Barcelona, March 30th 2017.
+1. Terahertz in art and cultural heritage inspection: present and future. Eastern Analytical Symposium,
+Somerset NJ, Nov. 16th 2015.
+1. Cultural heritage inspection applications with terahertz waves based on reading a closed book.
+Primera Reunion Mexicana de Ciencia y Tecnologia de Terahertz, Leon, Guanajuato, Mexico, Oct.
+2015.
+1. Portable open-field terahertz instrumentation. Pittcon conference, Philadelphia PA, United States,
+Mar. 2013.
+1. Zomega terahertz corporation overview. RFIC panel sessions, Montreal, Canada, June 2012.
+2. Frontiers of terahertz time-domain imaging. Arizona State University, Tempe AZ, United States,
+Jan. 2012.
+1. THz time-domain spectroscopy for food and pharmaceutical applications. Universitat de Barcelona,
+Barcelona, Spain, Jan. 2010.
+1. Terahertz science and technology review. Universidad Politecnica de Madrid, Madrid, Spain, July
+2009.
+1. Terahertz science and technology review. Universitat Politecnica de Catalunya, Barcelona, Spain,
+May 2009.
+1.  Terahertz science and technology for security applications. Upstate New York electronic crimes
+coalition conference, Troy NY, United States, Nov. 2007.
+1.  Sensing explosive and related compounds with terahertz technology: from laboratory demonstration
+to open field applications. Gordon Research Conference, Big Sky MT, United States, Sept. 2007.
+1.  Damage and defect inspection with terahertz waves. University at Dartmouth, Dartmouth MA,
+United States, June 2006.
+1.  Continuous-wave terahertz systems. Capital Normal University, Beijing, China, Mar. 2006.
+2.  Sensing and imaging with CW terahertz systems. Quantitative Non-Destructive Evaluation Conference,
+Brunswick ME, United States, July 2005.
+1.  Sensing and imaging with continuous-wave terahertz. Rensselaer Polytechnic Institute, Troy NY,
+United States, Oct. 2005.
+1.  Terahertz applications in solid state physics. University of Barcelona, Barcelona, Spain, Sept. 2005.
+
+
+## Seminars and workshops
+
+1. Terahertz spectroscopy workshop. EPFL, Lausanne, Switzerland, Feb. 2013.
+2. Terahertz instrumentation status and market outlook. 2012 Workshop on terahertz science instruments
+and frontier technology, Beijing, China, Aug. 2012.
+3. Practical guide to develop terahertz systems. Universitat Politècnica de Catalunya, Barcelona,
+Spain, June 2010.
+4. Terahertz systems integration constraints. Universitat Politècnica de Catalunya, Barcelona, Spain,
+May 2009.
