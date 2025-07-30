@@ -7,9 +7,9 @@ permalink: /pages/publications/
 
 - [Journal papers](#journal-papers)
 - [Conference papers](#conference-papers)
+- [Patents](#patents)
 - [Invited talks](#invited-talks)
 - [Seminars and workshops](#seminars-and-workshops)
-- [Patents](#patents)
 
 
 ## Journal papers
