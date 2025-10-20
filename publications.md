@@ -98,17 +98,17 @@ permalink: /pages/publications/
 
 5. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2024). Methods and systems for programming momentum and increasing light efficiency above 25% in folded optics and field evolving cavities via quantum effects. United States Patent and Trademark Office Patent No. [US-12158583-B2](https://patents.google.com/patent/US12158583B2/en?oq=US12158583B2).
 
-6. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2024). Methods and systems for interactive displays with intelligent generative content and tandem computing. United States Patent and Trademark Office Patent No. [US-12099771-B1](https://patentcenter.uspto.gov/applications/18296087).
+6. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2024). Methods and systems for interactive displays with intelligent generative content and tandem computing. United States Patent and Trademark Office Patent No. [US-12099771-B1](https://patents.google.com/patent/US12099771B1/en?oq=US-12099771-B1).
 
 7. Dehkordi, B. H., Barsi, C., Ting, I.-H., **Redo-Sanchez, A.**, & Mehta, A. A. (2023). Display systems and imaging systems with dynamically controllable optical path lengths. United States Patent and Trademark Office, Patent No. [US-11662591-B1](https://patents.google.com/patent/US11662591B1/en?oq=US11662591B1).
 
 8. Dehkordi, B. H., Mehta, A. A., Barsi, C., **Redo-Sanchez, A.**, & Raskar, R. (2023). Methods, systems, apparatuses, and devices for facilitating stress-adaptive virtual experience stations. United States Patent and Trademark Office, Patent No. [US-20230191077-A1](https://patents.google.com/patent/US20230191077A1/en?oq=US20230191077A1).
 
-9. Dehkordi, B. H., **Redo-Sanchez, A.**, Andrews, G. M., & Raskar, R. (2021). Methods and apparatus for high resolution imaging with reflectors at staggered depths beneath sample. United States Patent and Trademark Office, Patent No. [US-11016309-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11016309).
+9. Dehkordi, B. H., **Redo-Sanchez, A.**, Andrews, G. M., & Raskar, R. (2021). Methods and apparatus for high resolution imaging with reflectors at staggered depths beneath sample. United States Patent and Trademark Office, Patent No. [US-11016309-B2](https://patents.google.com/patent/US11016309B2/en?oq=US-11016309-B2).
 
-10. Dehkordi, B. H., **Redo-Sanchez, A.**, Raskar, R., Aghasi, A., & Romberg, J. (2020). Methods and apparatus for imaging of layers. United States Patent and Trademark Office, Patent No. [US-10796190-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10796190).
+10. Dehkordi, B. H., **Redo-Sanchez, A.**, Raskar, R., Aghasi, A., & Romberg, J. (2020). Methods and apparatus for imaging of layers. United States Patent and Trademark Office, Patent No. [US-10796190-B2](https://patents.google.com/patent/US10796190B2/en?oq=US-10796190-B2).
 
-11. Sinha, S., Park, H., **Redo-Sanchez, A.**, Lawson, M. E., Savidis, N., Rachapudi, P., Raskar, R., & Patalano, V. (2018). Methods and Apparatus for Anterior Segment Ocular Imaging. United States Patent and Trademark Office, Patent No. [US-10105049-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10105049).
+11. Sinha, S., Park, H., **Redo-Sanchez, A.**, Lawson, M. E., Savidis, N., Rachapudi, P., Raskar, R., & Patalano, V. (2018). Methods and Apparatus for Anterior Segment Ocular Imaging. United States Patent and Trademark Office, Patent No. [US-10105049-B2](https://patents.google.com/patent/US10105049B2/en?oq=US-10105049-B2).
 
 12. López-Zorzano, A., Etayo-Salinas, D., Fernández-Vallejo, M., Chudzik, M., **Redo-Sanchez, A.**, & Azanza-Ladrón, E. (2018). Method for Characterising a Material with Layered Structure and a Measuring System. European Patent Office, Patent No. [EP-3516373](https://patentscope.wipo.int/search/en/detail.jsf?docId=EP249467446&_cid=P10-LSEGT4-36213-1).
 
