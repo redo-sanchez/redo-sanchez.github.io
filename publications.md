@@ -30,29 +30,31 @@ permalink: /pages/publications/
 
 9. **Redo-Sanchez, A.**, Heshmat, B., Aghasi, A., Naqvi, S., Zhang, M., Romberg, J., & Raskar, R. (2016). Terahertz time-gated spectral imaging for content extraction through layered structures. Nature Communications, 7(1), 12665. [doi: 10.1038/ncomms12665](https://www.nature.com/articles/ncomms12665)
 
-10. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2013). Review of Terahertz Technology Readiness Assessment and Applications. Journal of Infrared, Millimeter, and Terahertz Waves, 34(9), 500–518. [doi: 10.1007/s10762-013-9998-y](https://link.springer.com/article/10.1007/s10762-013-9998-y)
+10. Rachapudi, P., Sinha, S., Lee, W. S., **Redo-Sanchez, A.**, & Raskar, R. (2016). A purely solid-state device for rapid reconstruction of 3D models of the anterior segment of the eye with no moving parts. Investigative Opththalmology & Visual Science, 57(12), 1908. Linke [here](https://iovs.arvojournals.org/article.aspx?articleid=2560464)
 
-11. Seco-Martorell, C., López-Domínguez, V., Arauz-Garofalo, G., **Redo-Sanchez, A.**, Palacios, J., & Tejada, J. (2013). Goya’s artwork imaging with Terahertz waves. Optics Express, 21(15), 17800. [doi: 10.1364/oe.21.017800](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-15-17800&id=259467)
+11. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2013). Review of Terahertz Technology Readiness Assessment and Applications. Journal of Infrared, Millimeter, and Terahertz Waves, 34(9), 500–518. [doi: 10.1007/s10762-013-9998-y](https://link.springer.com/article/10.1007/s10762-013-9998-y)
 
-12. Riley, M., **Redo-Sanchez, A.**, Karampourniotis, P., Plawsky, J., & Lu, T.-M. (2012). Nanostructured porous silicon films for terahertz optics. Nanotechnology, 23(32), 325301. [doi: 10.1088/0957-4484/23/32/325301](https://iopscience.iop.org/article/10.1088/0957-4484/23/32/325301)
+12. Seco-Martorell, C., López-Domínguez, V., Arauz-Garofalo, G., **Redo-Sanchez, A.**, Palacios, J., & Tejada, J. (2013). Goya’s artwork imaging with Terahertz waves. Optics Express, 21(15), 17800. [doi: 10.1364/oe.21.017800](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-15-17800&id=259467)
 
-13. **Redo-Sanchez, A.**, Salvatella, G., Galceran, R., Roldós, E., García-Reguero, J.-A., Castellari, M., & Tejada, J. (2011). Assessment of terahertz spectroscopy to detect antibiotic residues in food and feed matrices. Analyst, 136(8), 1733–1738. [doi: 10.1039/c0an01016b](https://pubs.rsc.org/en/content/articlelanding/2011/an/c0an01016b)
+13. Riley, M., **Redo-Sanchez, A.**, Karampourniotis, P., Plawsky, J., & Lu, T.-M. (2012). Nanostructured porous silicon films for terahertz optics. Nanotechnology, 23(32), 325301. [doi: 10.1088/0957-4484/23/32/325301](https://iopscience.iop.org/article/10.1088/0957-4484/23/32/325301)
 
-14. **Redo-Sanchez, A.**, & Zhang, X.-C. (2011). Self-referenced method for terahertz wave time-domain spectroscopy. Optics Letters, 36(17), 3308. [doi: 10.1364/ol.36.003308](https://opg.optica.org/ol/fulltext.cfm?uri=ol-36-17-3308&id=221891)
+14. **Redo-Sanchez, A.**, Salvatella, G., Galceran, R., Roldós, E., García-Reguero, J.-A., Castellari, M., & Tejada, J. (2011). Assessment of terahertz spectroscopy to detect antibiotic residues in food and feed matrices. Analyst, 136(8), 1733–1738. [doi: 10.1039/c0an01016b](https://pubs.rsc.org/en/content/articlelanding/2011/an/c0an01016b)
 
-15. **Redo-Sanchez, A.**, Kaur, G., Zhang, X.-C., Buersgens, F., & Kersting, R. (2009). 2-D Acoustic Phase Imaging with Millimeter-Wave Radiation. IEEE Transactions on Microwave Theory and Techniques, 57(3), 589–593. [doi: 10.1109/tmtt.2009.2013306](https://ieeexplore.ieee.org/document/4781893)
+15. **Redo-Sanchez, A.**, & Zhang, X.-C. (2011). Self-referenced method for terahertz wave time-domain spectroscopy. Optics Letters, 36(17), 3308. [doi: 10.1364/ol.36.003308](https://opg.optica.org/ol/fulltext.cfm?uri=ol-36-17-3308&id=221891)
 
-16. Song, Q., Zhao, Y., **Redo-Sanchez, A.**, Zhang, C., & Liu, X. (2009). Fast continuous terahertz wave imaging system for security. Optics Communications, 282(10), 2019–2022. [doi: 10.1016/j.optcom.2009.02.019](https://www.sciencedirect.com/science/article/pii/S0030401809001424?via)
+16. **Redo-Sanchez, A.**, Kaur, G., Zhang, X.-C., Buersgens, F., & Kersting, R. (2009). 2-D Acoustic Phase Imaging with Millimeter-Wave Radiation. IEEE Transactions on Microwave Theory and Techniques, 57(3), 589–593. [doi: 10.1109/tmtt.2009.2013306](https://ieeexplore.ieee.org/document/4781893)
 
-17. **Redo-Sanchez, A.**, & Zhang, X.-C. (2008). Terahertz Science and Technology Trends. IEEE Journal of Selected Topics in Quantum Electronics, 14(2), 260–269. [doi: 10.1109/jstqe.2007.913959](https://ieeexplore.ieee.org/document/4481128)
+17. Song, Q., Zhao, Y., **Redo-Sanchez, A.**, Zhang, C., & Liu, X. (2009). Fast continuous terahertz wave imaging system for security. Optics Communications, 282(10), 2019–2022. [doi: 10.1016/j.optcom.2009.02.019](https://www.sciencedirect.com/science/article/pii/S0030401809001424?via)
 
-18. Zeng, G., Zhang, X.-C., **Redo-Sanchez, A.**, & Embrechts, M. J. (2007). Independent Component Analysis for Separating Water Vapor Spectrum from Terahertz Spectra. Intelligent Engineering Systems Through Artificial Neural Networks, 585–591. [doi: 10.1115/1.802655.paper92](https://doi.org/10.1115/1.802655.paper92)
+18. **Redo-Sanchez, A.**, & Zhang, X.-C. (2008). Terahertz Science and Technology Trends. IEEE Journal of Selected Topics in Quantum Electronics, 14(2), 260–269. [doi: 10.1109/jstqe.2007.913959](https://ieeexplore.ieee.org/document/4481128)
 
-19. Zhong, H., **Redo-Sanchez, A.**, & Zhang, X.-C. (2007). Standoff Sensing and Imaging of Explosive Related Chemical and Bio-Chemical Materials Using THz-TDS. International Journal of High Speed Electronics and Systems, 17(02), 239–249. [doi: 10.1142/s0129156407004461](https://www.worldscientific.com/doi/abs/10.1142/S0129156407004461)
+19. Zeng, G., Zhang, X.-C., **Redo-Sanchez, A.**, & Embrechts, M. J. (2007). Independent Component Analysis for Separating Water Vapor Spectrum from Terahertz Spectra. Intelligent Engineering Systems Through Artificial Neural Networks, 585–591. [doi: 10.1115/1.802655.paper92](https://doi.org/10.1115/1.802655.paper92)
 
-20. Zhong, H., **Redo-Sanchez, A.**, & Zhang, X.-C. (2006). Identification and classification of chemicals using terahertz reflective spectroscopic focal-plane imaging system. Optics Express, 14(20), 9130. [doi: 10.1364/oe.14.009130](https://opg.optica.org/oe/fulltext.cfm?uri=oe-14-20-9130&id=114590)
+20. Zhong, H., **Redo-Sanchez, A.**, & Zhang, X.-C. (2007). Standoff Sensing and Imaging of Explosive Related Chemical and Bio-Chemical Materials Using THz-TDS. International Journal of High Speed Electronics and Systems, 17(02), 239–249. [doi: 10.1142/s0129156407004461](https://www.worldscientific.com/doi/abs/10.1142/S0129156407004461)
 
-21. **Redo-Sanchez, A.**, Tejada, J., & Bohigas, X. (2006). Bubble Detector in Polyurethane Applications Based on a Microwave System. IEEE Sensors Journal, 6(4), 939–944. [doi: 10.1109/jsen.2006.877999](https://ieeexplore.ieee.org/document/1661575)
+21. Zhong, H., **Redo-Sanchez, A.**, & Zhang, X.-C. (2006). Identification and classification of chemicals using terahertz reflective spectroscopic focal-plane imaging system. Optics Express, 14(20), 9130. [doi: 10.1364/oe.14.009130](https://opg.optica.org/oe/fulltext.cfm?uri=oe-14-20-9130&id=114590)
+
+22. **Redo-Sanchez, A.**, Tejada, J., & Bohigas, X. (2006). Bubble Detector in Polyurethane Applications Based on a Microwave System. IEEE Sensors Journal, 6(4), 939–944. [doi: 10.1109/jsen.2006.877999](https://ieeexplore.ieee.org/document/1661575)
 
 
 ## Conference papers
