@@ -22,8 +22,8 @@ github_username: redo-sanchez
 
 header_pages:
   - index.md
-  - professional.md
   - academic.md
+  - professional.md
   - publications.md
   - media.md
   - resources.md
