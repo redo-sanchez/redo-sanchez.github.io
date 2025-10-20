@@ -28,7 +28,7 @@ permalink: /pages/publications/
 
 8. **Redo-Sanchez, A.**, Heshmat, B., Aghasi, A., Naqvi, S., Zhang, M., Romberg, J., & Raskar, R. (2016). Terahertz time-gated spectral imaging for content extraction through layered structures. Nature Communications, 7(1), 12665. [doi: 10.1038/ncomms12665](https://www.nature.com/articles/ncomms12665)
 
-9. Rachapudi, P., Sinha, S., Lee, W. S., **Redo-Sanchez, A.**, & Raskar, R. (2016). A purely solid-state device for rapid reconstruction of 3D models of the anterior segment of the eye with no moving parts. Investigative Opththalmology & Visual Science, 57(12), 1908. Linke [here](https://iovs.arvojournals.org/article.aspx?articleid=2560464)
+9. Rachapudi, P., Sinha, S., Lee, W. S., **Redo-Sanchez, A.**, & Raskar, R. (2016). A purely solid-state device for rapid reconstruction of 3D models of the anterior segment of the eye with no moving parts. Investigative Opththalmology & Visual Science, 57(12), 1908. Link [here](https://iovs.arvojournals.org/article.aspx?articleid=2560464)
 
 10. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2013). Review of Terahertz Technology Readiness Assessment and Applications. Journal of Infrared, Millimeter, and Terahertz Waves, 34(9), 500–518. [doi: 10.1007/s10762-013-9998-y](https://link.springer.com/article/10.1007/s10762-013-9998-y)
 
@@ -51,6 +51,8 @@ permalink: /pages/publications/
 19. Zhong, H., **Redo-Sanchez, A.**, & Zhang, X.-C. (2006). Identification and classification of chemicals using terahertz reflective spectroscopic focal-plane imaging system. Optics Express, 14(20), 9130. [doi: 10.1364/oe.14.009130](https://opg.optica.org/oe/fulltext.cfm?uri=oe-14-20-9130&id=114590)
 
 20. **Redo-Sanchez, A.**, Tejada, J., & Bohigas, X. (2006). Bubble Detector in Polyurethane Applications Based on a Microwave System. IEEE Sensors Journal, 6(4), 939–944. [doi: 10.1109/jsen.2006.877999](https://ieeexplore.ieee.org/document/1661575)
+
+21. Ruiz, X., Ramírez-Piscina, L., **Redo-Sanchez, A.**, & Casademunt, J. (2001). Nonlinear Response of Fluid Flow to G-Jitter in Differentially Heated Cavities. Subharmonic Route to Chaos and Beyond. In E. S. Agency (Ed.), First International Symposium on Microgravity Research and Applications in Physical Sciences and Biotechnology. Link [here](http://adsabs.harvard.edu/full/2001ESASP.454..871R)
 
 
 ## Conference papers
@@ -75,7 +77,7 @@ permalink: /pages/publications/
 
 10. **Redo-Sanchez, A.**, Karpowicz, N., Xu, J., & Zhang, X.-C. (2006). Damage and defect inspection with terahertz waves. The 4th International Workshop on Ultrasonic and Advanced Methods for Nondestructive Testing and Material Characterization.
 
-11. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2005). Standoff Distance Detection of Explosive Materials with THz Waves. 2005 Joint 30th International Conference on Infrared and Millimeter Waves and 13th International Conference on Terahertz Electronics, 1, 42–43. [doi: 10.1109/icimw.2005.1572397](https://ieeexplore.ieee.org/document/1572397)
+11. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2006). Standoff Distance Detection of Explosive Materials with THz Waves. 2005 Joint 30th International Conference on Infrared and Millimeter Waves and 13th International Conference on Terahertz Electronics, 1, 42–43. [doi: 10.1109/icimw.2005.1572397](https://ieeexplore.ieee.org/document/1572397)
 
 
 ## Patents
