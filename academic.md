@@ -32,7 +32,7 @@ _Research Scientist_
 - Designed compact optical devices for portable eye diagnosis applications
 - Wrote research grants and mentored Ph.D. students
 
-<iframe width="700" height="395" src="https://youtu.be/juewG4ptU0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="395" src="https://www.youtube.com/embed/juewG4ptU0s?si=gJDg5VVdBtGJLWr9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe src="https://onedrive.live.com/embed?resid=F5F1ECEA6F58D121%21598240&authkey=!ACCjyHzywylVvkE&em=2" width="700" height="395" frameborder="0" scrolling="no"></iframe>
 
