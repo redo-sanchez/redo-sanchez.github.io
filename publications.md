@@ -12,7 +12,7 @@ permalink: /pages/publications/
 
 ## Journal papers
 
-1. Pueyo-Ciutad, O., Marco, J., Schertzer, S., Christnacher, F., Laurenzis, M., Gutierrez, D., & Redo-Sanchez, A. (2024). Time-Gated Polarization for Active Non-Line-Of-Sight Imaging. SIGGRAPH Asia 2024 Conference Papers, 1–11. [doi: 10.1145/3680528.3687575](https://doi.org/10.1145/3680528.3687575)
+1. Pueyo-Ciutad, O., Marco, J., Schertzer, S., Christnacher, F., Laurenzis, M., Gutierrez, D., & **Redo-Sanchez, A.** (2024). Time-Gated Polarization for Active Non-Line-Of-Sight Imaging. SIGGRAPH Asia 2024 Conference Papers, 1–11. [doi: 10.1145/3680528.3687575](https://doi.org/10.1145/3680528.3687575)
 
 2. **Redo-Sanchez, A.**, Luesia-Lahoz, P., Gutierrez, D., & Muñoz, A. (2024). Cohesive framework for non-line-of-sight imaging based on Dirac notation. Optics Express, 32(6), 10505--10526. [doi: 10.1364/oe.518466](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-6-10505&id=547717)
 
