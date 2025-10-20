@@ -58,32 +58,56 @@ permalink: /pages/publications/
 ## Conference papers
 
 1. Pueyo-Ciutad, O., Marco, J., Schertzer, S., Christnacher, F., Laurenzis, M., Gutierrez, D., & **Redo-Sanchez, A.** (2024). Time-Gated Polarization for Active Non-Line-Of-Sight Imaging. SIGGRAPH Asia 2024 Conference Papers, 1–11. Tokyo, Japan: Association for Computing Machinery. [doi: 10.1145/3680528.3687575](https://dl.acm.org/doi/10.1145/3680528.3687575)
+
 2. Cordon, A., Miranda, L., Martinez, C., Ines, A., Etayo, D., Fernandez, M., Rodriguez, P., Taboada, E., **Redo-Sanchez, A.**, Castrillo, M., Laso, A. G. Miguel, & Arnedo, I. (2019). THz to Inspect Graphene and Thin Film Materials (IEEE, Ed.). [doi: 10.1109/irmmw-thz.2019.8874447](https://ieeexplore.ieee.org/document/8874447)
+
 3. Callegaro, L., Cassiago, C., Cultrera, A., D’Elia, V., Serazio, D., Ortolano, M., Marzano, M., Kazakova, O., Melios, C., Raso, F., Matias, L., Zurutuza, A., Centeno, A., **Redo-Sanchez, A.**, Kretinin, A., Sann-Ferro, K., Fabricius, A., Weking, G., Bergholz, W., & Fabricius, N. (2018). GRACE: Developing Electrical Characterisation Methods for Future Graphene Electronics. [doi: 10.1109/cpem.2018.8501012](https://ieeexplore.ieee.org/document/8501012)
+
 4. Satat, G., Heshmat, B., Naik, N., **Redo-Sanchez, A.**, & Raskar, R. (2016). Advances in ultrafast optics and imaging applications. Ultrafast Bandgap Photonics, 98350Q-98350Q – 13. [doi: 10.1117/12.2222438](https://doi.org/10.1117/12.2222438)
+
 5. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2014). Non-destructive imaging with compact and portable terahertz systems. AIP Conference Proceedings, 1581(1), 1583–1587. [doi: 10.1063/1.4865012](https://doi.org/10.1063/1.4865012)
+
 6. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2013). Compact, portable Terahertz systems for on-site inspection applications. 2013 38th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz), 1–1. [doi: 10.1109/irmmw-thz.2013.6665510](https://ieeexplore.ieee.org/document/6665510)
+
 7. Song, Q., **Redo-Sanchez, A.**, Zhao, Y., & Zhang, C. (2008). High speed imaging with CW THz for security. 2008 International Conference on Optical Instruments and Technology: Optoelectronic Measurement Technology and Applications, 716016-716016–716018. [doi: 10.1117/12.807197](https://doi.org/10.1117/12.807197)
+
 8. Zeng, G., Zhang, X.-C., **Redo-Sanchez, A.**, & Embrechts, M. J. (2007). Independent Component Analysis for Separating Water Vapor Spectrum from Terahertz Spectra. Intelligent Engineering Systems Through Artificial Neural Networks, 585–591. [doi: 10.1115/1.802655.paper92](https://doi.org/10.1115/1.802655.paper92)
+
 9. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2006). THz wave standoff detection of explosive materials. Terahertz for Military and Security Applications IV, 62120L-62120L – 8. [doi: 10.1117/12.665360](https://doi.org/10.1117/12.665360)
+
 10. **Redo-Sanchez, A.**, Karpowicz, N., Xu, J., & Zhang, X.-C. (2006). Damage and defect inspection with terahertz waves. The 4th International Workshop on Ultrasonic and Advanced Methods for Nondestructive Testing and Material Characterization.
+
 11. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2005). Standoff Distance Detection of Explosive Materials with THz Waves. 2005 Joint 30th International Conference on Infrared and Millimeter Waves and 13th International Conference on Terahertz Electronics, 1, 42–43. [doi: 10.1109/icimw.2005.1572397](https://ieeexplore.ieee.org/document/1572397)
 
 
 ## Patents
 
 1. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2025). Methods and systems for programming momentum and increasing light efficiency in deeper roundtrips of folded optics and cavities via time-space harmonics and moiré effects. United States Patent and Trademark Office Patent No. [US-12253674-B2](https://patentcenter.uspto.gov/applications/17974213).
+
 2. Dehkordi, B. H., Barsi, C., Ting, I.-H., **Redo-Sanchez, A.**, & Mehta, A. A. (2025). Display and imaging systems with 1D-1D optical surfaces for stereoscopic and monocular depth programming. United States Patent and Trademark Office Patent No. [US-12298511-B2](https://patentcenter.uspto.gov/applications/17823427).
+
 3. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2025). Methods and systems for programming momentum and increasing light efficiency in deeper roundtrips of folded optics via axial refraction. United States Patent and Trademark Office Patent No. [US-12216280-B2](https://patentcenter.uspto.gov/applications/17966761).
+
 4. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2024). Multipurpose in-vehicle display systems with ambient light sources for integrated HUDs, instrument clusters, and interactive displays. United States Patent and Trademark Office Patent No. [US-12025798-B1](https://patentcenter.uspto.gov/applications/18465396).
+
 5. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2024). Methods and systems for programming momentum and increasing light efficiency above 25% in folded optics and field evolving cavities via quantum effects. United States Patent and Trademark Office Patent No. [US-12158583-B2](https://patentcenter.uspto.gov/applications/17958969).
+
 6. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2024). Methods and systems for interactive displays with intelligent generative content and tandem computing. United States Patent and Trademark Office Patent No. [US-12099771-B1](https://patentcenter.uspto.gov/applications/18296087).
+
 7. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2023). Methods and systems for programming momentum and increasing light efficiency above 25% in folded optics and field evolving cavities. United States Patent and Trademark Office Patent No. [US-11774762-B1](https://patentcenter.uspto.gov/applications/17947005).
+
 8. Dehkordi, B. H., Barsi, C., Ting, I.-H., **Redo-Sanchez, A.**, & Mehta, A. A. (2023). Display systems and imaging systems with dynamically controllable optical path lengths. United States Patent and Trademark Office, Patent No. [US-11662591-B1](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11662591).
+
 9. Dehkordi, B. H., Mehta, A. A., Barsi, C., **Redo-Sanchez, A.**, & Raskar, R. (2023). Methods, systems, apparatuses, and devices for facilitating stress-adaptive virtual experience stations. United States Patent and Trademark Office, Patent No. [US-20230191077-A1](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230191077).
+
 10. Dehkordi, B. H., Barsi, C., Ting, I.-H., **Redo-Sanchez, A.**, & Mehta, A. A. (2023). Display systems and imaging systems with dynamically controllable optical path lengths. United States Patent and Trademark Office Patent No. [US-11662591-B1](https://patentcenter.uspto.gov/applications/17810567).
+
 11. Dehkordi, B. H., **Redo-Sanchez, A.**, Andrews, G. M., & Raskar, R. (2021). Methods and apparatus for high resolution imaging with reflectors at staggered depths beneath sample. United States Patent and Trademark Office, Patent No. [US-11016309-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11016309).
+
 12. Dehkordi, B. H., **Redo-Sanchez, A.**, Raskar, R., Aghasi, A., & Romberg, J. (2020). Methods and apparatus for imaging of layers. United States Patent and Trademark Office, Patent No. [US-10796190-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10796190).
+
 13. Sinha, S., Park, H., **Redo-Sanchez, A.**, Lawson, M. E., Savidis, N., Rachapudi, P., Raskar, R., & Patalano, V. (2018). Methods and Apparatus for Anterior Segment Ocular Imaging. United States Patent and Trademark Office, Patent No. [US-10105049-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10105049).
+
 14. López-Zorzano, A., Etayo-Salinas, D., Fernández-Vallejo, M., Chudzik, M., **Redo-Sanchez, A.**, & Azanza-Ladrón, E. (2018). Method for Characterising a Material with Layered Structure and a Measuring System. European Patent Office, Patent No. [EP-3516373](https://patentscope.wipo.int/search/en/detail.jsf?docId=EP249467446&_cid=P10-LSEGT4-36213-1).
+
 15. **Redo-Sanchez, A.** (2004). Device for separating, lifting and moving aluminium sheets or other non-ferromagnetic material. United States Patent and Trademark Office, Patent No. [US-6746063-B1](https://patentscope.wipo.int/search/en/detail.jsf?docId=US40567436).
