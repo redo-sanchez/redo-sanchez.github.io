@@ -79,9 +79,9 @@ permalink: /pages/publications/
 
 11. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2006). THz wave standoff detection of explosive materials. Terahertz for Military and Security Applications IV, 62120L-62120L – 8. [doi: 10.1117/12.665360](https://doi.org/10.1117/12.665360)
 
-12. Liu, H., Zhong, H., Karpowicz, N., Li, X., **Redo-Sanchez, A.**, Chen, Y., Xu, J., Zhang, X.-C., Han, H., & Jin, Y.-S. (2006, February 13). THz Photonics Technology and Its Applications. 2005 International Topical Meeting on Microwave Photonics. [doi: 10.1109/MWP.2005.203530](https://doi.org/10.1109/MWP.2005.203530)
+12. **Redo-Sanchez, A.**, Karpowicz, N., Xu, J., & Zhang, X.-C. (2006). Damage and defect inspection with terahertz waves. The 4th International Workshop on Ultrasonic and Advanced Methods for Nondestructive Testing and Material Characterization, 11, 67--77. Link [here](https://www.ndt.net/article/v11n07/papers/08.pdf)
 
-13. **Redo-Sanchez, A.**, Karpowicz, N., Xu, J., & Zhang, X.-C. (2006). Damage and defect inspection with terahertz waves. The 4th International Workshop on Ultrasonic and Advanced Methods for Nondestructive Testing and Material Characterization, 11, 67--77. Link [here](https://www.ndt.net/article/v11n07/papers/08.pdf)
+13. Liu, H., Zhong, H., Karpowicz, N., Li, X., **Redo-Sanchez, A.**, Chen, Y., Xu, J., Zhang, X.-C., Han, H., & Jin, Y.-S. (2006). THz Photonics Technology and Its Applications. 2005 International Topical Meeting on Microwave Photonics. [doi: 10.1109/MWP.2005.203530](https://doi.org/10.1109/MWP.2005.203530)
 
 14. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2006). Standoff Distance Detection of Explosive Materials with THz Waves. 2005 Joint 30th International Conference on Infrared and Millimeter Waves and 13th International Conference on Terahertz Electronics, 1, 42–43. [doi: 10.1109/icimw.2005.1572397](https://ieeexplore.ieee.org/document/1572397)
 
