@@ -88,32 +88,28 @@ permalink: /pages/publications/
 
 ## Patents
 
-1. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2025). Methods and systems for programming momentum and increasing light efficiency in deeper roundtrips of folded optics and cavities via time-space harmonics and moiré effects. United States Patent and Trademark Office Patent No. [US-12253674-B2](https://patentcenter.uspto.gov/applications/17974213).
+1. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2025). Methods and systems for programming momentum and increasing light efficiency in deeper roundtrips of folded optics and cavities via time-space harmonics and moiré effects. United States Patent and Trademark Office Patent No. [US-12253674-B2](https://patents.google.com/patent/US12253674B2/en?oq=US12253674B2).
 
-2. Dehkordi, B. H., Barsi, C., Ting, I.-H., **Redo-Sanchez, A.**, & Mehta, A. A. (2025). Display and imaging systems with 1D-1D optical surfaces for stereoscopic and monocular depth programming. United States Patent and Trademark Office Patent No. [US-12298511-B2](https://patentcenter.uspto.gov/applications/17823427).
+2. Dehkordi, B. H., Barsi, C., Ting, I.-H., **Redo-Sanchez, A.**, & Mehta, A. A. (2025). Display and imaging systems with 1D-1D optical surfaces for stereoscopic and monocular depth programming. United States Patent and Trademark Office Patent No. [US-12298511-B2](https://patents.google.com/patent/US12298511B2/en?oq=US12298511B2).
 
-3. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2025). Methods and systems for programming momentum and increasing light efficiency in deeper roundtrips of folded optics via axial refraction. United States Patent and Trademark Office Patent No. [US-12216280-B2](https://patentcenter.uspto.gov/applications/17966761).
+3. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2025). Methods and systems for programming momentum and increasing light efficiency in deeper roundtrips of folded optics via axial refraction. United States Patent and Trademark Office Patent No. [US-12216280-B2](https://patents.google.com/patent/US12216280B2/en?oq=US12216280B2).
 
-4. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2024). Multipurpose in-vehicle display systems with ambient light sources for integrated HUDs, instrument clusters, and interactive displays. United States Patent and Trademark Office Patent No. [US-12025798-B1](https://patentcenter.uspto.gov/applications/18465396).
+4. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2024). Multipurpose in-vehicle display systems with ambient light sources for integrated HUDs, instrument clusters, and interactive displays. United States Patent and Trademark Office Patent No. [US-12025798-B1](https://patents.google.com/patent/US12025798B1/en?oq=US12025798B1).
 
-5. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2024). Methods and systems for programming momentum and increasing light efficiency above 25% in folded optics and field evolving cavities via quantum effects. United States Patent and Trademark Office Patent No. [US-12158583-B2](https://patentcenter.uspto.gov/applications/17958969).
+5. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2024). Methods and systems for programming momentum and increasing light efficiency above 25% in folded optics and field evolving cavities via quantum effects. United States Patent and Trademark Office Patent No. [US-12158583-B2](https://patents.google.com/patent/US12158583B2/en?oq=US12158583B2).
 
 6. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2024). Methods and systems for interactive displays with intelligent generative content and tandem computing. United States Patent and Trademark Office Patent No. [US-12099771-B1](https://patentcenter.uspto.gov/applications/18296087).
 
-7. Dehkordi, B. H., Barsi, C., & **Redo-Sanchez, A.** (2023). Methods and systems for programming momentum and increasing light efficiency above 25% in folded optics and field evolving cavities. United States Patent and Trademark Office Patent No. [US-11774762-B1](https://patentcenter.uspto.gov/applications/17947005).
+7. Dehkordi, B. H., Barsi, C., Ting, I.-H., **Redo-Sanchez, A.**, & Mehta, A. A. (2023). Display systems and imaging systems with dynamically controllable optical path lengths. United States Patent and Trademark Office, Patent No. [US-11662591-B1](https://patents.google.com/patent/US11662591B1/en?oq=US11662591B1).
 
-8. Dehkordi, B. H., Barsi, C., Ting, I.-H., **Redo-Sanchez, A.**, & Mehta, A. A. (2023). Display systems and imaging systems with dynamically controllable optical path lengths. United States Patent and Trademark Office, Patent No. [US-11662591-B1](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11662591).
+8. Dehkordi, B. H., Mehta, A. A., Barsi, C., **Redo-Sanchez, A.**, & Raskar, R. (2023). Methods, systems, apparatuses, and devices for facilitating stress-adaptive virtual experience stations. United States Patent and Trademark Office, Patent No. [US-20230191077-A1](https://patents.google.com/patent/US20230191077A1/en?oq=US20230191077A1).
 
-9. Dehkordi, B. H., Mehta, A. A., Barsi, C., **Redo-Sanchez, A.**, & Raskar, R. (2023). Methods, systems, apparatuses, and devices for facilitating stress-adaptive virtual experience stations. United States Patent and Trademark Office, Patent No. [US-20230191077-A1](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230191077).
+9. Dehkordi, B. H., **Redo-Sanchez, A.**, Andrews, G. M., & Raskar, R. (2021). Methods and apparatus for high resolution imaging with reflectors at staggered depths beneath sample. United States Patent and Trademark Office, Patent No. [US-11016309-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11016309).
 
-10. Dehkordi, B. H., Barsi, C., Ting, I.-H., **Redo-Sanchez, A.**, & Mehta, A. A. (2023). Display systems and imaging systems with dynamically controllable optical path lengths. United States Patent and Trademark Office Patent No. [US-11662591-B1](https://patentcenter.uspto.gov/applications/17810567).
+10. Dehkordi, B. H., **Redo-Sanchez, A.**, Raskar, R., Aghasi, A., & Romberg, J. (2020). Methods and apparatus for imaging of layers. United States Patent and Trademark Office, Patent No. [US-10796190-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10796190).
 
-11. Dehkordi, B. H., **Redo-Sanchez, A.**, Andrews, G. M., & Raskar, R. (2021). Methods and apparatus for high resolution imaging with reflectors at staggered depths beneath sample. United States Patent and Trademark Office, Patent No. [US-11016309-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11016309).
+11. Sinha, S., Park, H., **Redo-Sanchez, A.**, Lawson, M. E., Savidis, N., Rachapudi, P., Raskar, R., & Patalano, V. (2018). Methods and Apparatus for Anterior Segment Ocular Imaging. United States Patent and Trademark Office, Patent No. [US-10105049-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10105049).
 
-12. Dehkordi, B. H., **Redo-Sanchez, A.**, Raskar, R., Aghasi, A., & Romberg, J. (2020). Methods and apparatus for imaging of layers. United States Patent and Trademark Office, Patent No. [US-10796190-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10796190).
+12. López-Zorzano, A., Etayo-Salinas, D., Fernández-Vallejo, M., Chudzik, M., **Redo-Sanchez, A.**, & Azanza-Ladrón, E. (2018). Method for Characterising a Material with Layered Structure and a Measuring System. European Patent Office, Patent No. [EP-3516373](https://patentscope.wipo.int/search/en/detail.jsf?docId=EP249467446&_cid=P10-LSEGT4-36213-1).
 
-13. Sinha, S., Park, H., **Redo-Sanchez, A.**, Lawson, M. E., Savidis, N., Rachapudi, P., Raskar, R., & Patalano, V. (2018). Methods and Apparatus for Anterior Segment Ocular Imaging. United States Patent and Trademark Office, Patent No. [US-10105049-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10105049).
-
-14. López-Zorzano, A., Etayo-Salinas, D., Fernández-Vallejo, M., Chudzik, M., **Redo-Sanchez, A.**, & Azanza-Ladrón, E. (2018). Method for Characterising a Material with Layered Structure and a Measuring System. European Patent Office, Patent No. [EP-3516373](https://patentscope.wipo.int/search/en/detail.jsf?docId=EP249467446&_cid=P10-LSEGT4-36213-1).
-
-15. **Redo-Sanchez, A.** (2004). Device for separating, lifting and moving aluminium sheets or other non-ferromagnetic material. United States Patent and Trademark Office, Patent No. [US-6746063-B1](https://patentscope.wipo.int/search/en/detail.jsf?docId=US40567436).
+13. **Redo-Sanchez, A.** (2004). Device for separating, lifting and moving aluminium sheets or other non-ferromagnetic material. United States Patent and Trademark Office, Patent No. [US-6746063-B1](https://patentscope.wipo.int/search/en/detail.jsf?docId=US40567436).
