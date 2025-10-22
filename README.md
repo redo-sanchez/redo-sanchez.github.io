@@ -8,8 +8,8 @@ Research group: [Graphics and Imaging Lab](https://graphics.unizar.es/)
 
 The portfolio is structured in the following sections:
 
-- Professional
 - Academic
+- Professional
 - Publications
 - Media
 - Resources
