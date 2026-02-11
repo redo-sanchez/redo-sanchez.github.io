@@ -22,7 +22,7 @@ permalink: /professional/
 
 ## das-Nano
 
-- [**IRYS:**](https://das-nano.com/multilayer-coating-thickness-measurement-and-data-analysis/) non-contact multi-layer thickness measurement for the automotive industry
+- [**IRYS:**](https://das-nano.com/products/irys/) non-contact multi-layer thickness measurement for the automotive industry
 - [**NOTUS:**](https://das-nano.com/notus-terahertz-technology/) system for multi-layer thickness and adherence characterization of composite structures
 - [**ONYX:**](https://das-nano.com/onyx-terahertz-technology/) system for 2D materials characterization for the semiconductor and materials research
 
