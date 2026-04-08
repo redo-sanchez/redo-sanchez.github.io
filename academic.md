@@ -15,7 +15,7 @@ permalink: /academic/
 
 ## **Universidad de Zaragoza (current)**
 
-_Distinguished Researcher_
+_Professor_
 
 - Co-principal investigator in project ENLIGHTEN by the [European Defence Fund](https://defence-industry-space.ec.europa.eu/eu-defence-industry/european-defence-fund-edf_en)
 - Cohesive framework for non-line-of-sight imaging based on Dirac notation
