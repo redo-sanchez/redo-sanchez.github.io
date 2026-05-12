@@ -5,15 +5,17 @@ title: Home
 
 ![Profile picture](/assets/images/foto_pro.jpg){: width="180px" style="float:left; padding-right:30px" }
 
-# Albert Redo-Sanchez, PhD
+# Albert Redo-Sanchez
 
-Distinguished Professor at the [Universidad de Zaragoza](https://eina.unizar.es/)
+Professor at the [Universidad de Zaragoza](https://eina.unizar.es/)
 
 Research group: [Graphics and Imaging Lab](https://graphics.unizar.es/)
 
 E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
 
-Current activity: [**Academic**](/academic.md) 
+Phone: +34 976761939
+
+Current activity: [**Academic**](/academic.md)
 \
 \
 | **ORCID:** [0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820) | **Google Scholar** profile [**here**](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en) | **Linked-In** profile [**here**](https://www.linkedin.com/in/redosanchez/) |
