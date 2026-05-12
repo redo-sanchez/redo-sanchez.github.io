@@ -11,13 +11,8 @@ Professor at the [Universidad de Zaragoza](https://eina.unizar.es/)
 
 Research group: [Graphics and Imaging Lab](https://graphics.unizar.es/)
 
-E-mail: [aredo@unizar.es](mailto:aredo@unizar.es)
+E-mail: [aredo@unizar.es](mailto:aredo@unizar.es) Phone: +34 976761939
 
-<<<<<<< HEAD
-=======
-Phone: +34 976761939
-
->>>>>>> 5a3bfb6ad9c924d598a01e6c27d7d15483a9ae5f
 Current activity: [**Academic**](/academic.md)
 \
 \
