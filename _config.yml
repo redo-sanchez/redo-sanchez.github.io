@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Albert Redo-Sanchez | Computational Imaging & Terahertz Research
+title: Albert Redo-Sanchez
 email: aredo@unizar.es
 description: >-
   Professor at Universidad de Zaragoza specializing in non-line-of-sight (NLOS)
