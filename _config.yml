@@ -13,9 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Portfolio
+title: Albert Redo-Sanchez | Computational Imaging & Terahertz Research
 email: aredo@unizar.es
-description: github.io repository
+description: >-
+  Professor at Universidad de Zaragoza specializing in non-line-of-sight (NLOS)
+  imaging, transient imaging, terahertz technology, and computer vision.
+  Research group: Graphics and Imaging Lab.
 baseurl: ""
 url: https://redo-sanchez.github.io/
 github_username: redo-sanchez
@@ -34,6 +37,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
