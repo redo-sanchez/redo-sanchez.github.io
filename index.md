@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Home
+description: Albert Redo-Sanchez, Professor at Universidad de Zaragoza. Research in NLOS imaging, terahertz technology, and computer vision.
 ---
 
-![Profile picture](/assets/images/foto_pro.jpg){: width="180px" style="float:left; padding-right:30px" }
+![Albert Redo-Sanchez, Professor at Universidad de Zaragoza](/assets/images/foto_pro.jpg){: width="180px" style="float:left; padding-right:30px" }
 
-# Albert Redo-Sanchez
+## Albert Redo-Sanchez
 
 Professor at the [Universidad de Zaragoza](https://eina.unizar.es/)
 
@@ -16,7 +17,7 @@ E-mail: [aredo at unizar.es]; Phone: +34 976761939
 Current activity: [**Academic**](/academic.md)
 \
 \
-| **ORCID:** [0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820) | **Google Scholar** profile [**here**](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en) | **Linked-In** profile [**here**](https://www.linkedin.com/in/redosanchez/) |
+| **ORCID:** [0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820) | [**Google Scholar** profile](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en) | [**LinkedIn** profile](https://www.linkedin.com/in/redosanchez/) |
 
 ## Research areas
 
@@ -24,7 +25,6 @@ Current activity: [**Academic**](/academic.md)
 - Computer vision and machine learning
 - Modeling and simulation
 - Terahertz and non-destructive testing
-
 
 ## Skillset
 
@@ -37,8 +37,8 @@ Current activity: [**Academic**](/academic.md)
   - Proof of concept experiments and prototyping up to minimum viable product (MVP)
 - **Manager:**
   - Project planning, execution, and supervision
-  - Proposal writting and funding
+  - Proposal writing and funding
 - **Sales and business development:**
   - Customer requirements collection and analysis
   - Management of relationships with distributors
-  - Comercial product development
+  - Commercial product development
