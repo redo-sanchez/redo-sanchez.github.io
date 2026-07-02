@@ -2,6 +2,7 @@
 layout: page
 title: Academic
 permalink: /academic/
+description: Academic career of Albert Redo-Sanchez — Universidad de Zaragoza, MIT, Rensselaer Polytechnic Institute, and University of Barcelona.
 ---
 
 

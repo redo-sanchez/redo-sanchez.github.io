@@ -2,6 +2,7 @@
 layout: page
 title: Professional
 permalink: /professional/
+description: Industry experience of Albert Redo-Sanchez — Brelyon, das-Nano, and Zomega Terahertz Corporation.
 ---
 
 

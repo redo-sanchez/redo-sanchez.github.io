@@ -2,9 +2,10 @@
 layout: page
 title: Resources
 permalink: /resources/
+description: Teaching materials and research tools from Albert Redo-Sanchez — courses at Universidad de Zaragoza, NLOS datasets, and the Transient Auxiliary Library (TAL).
 ---
 
-# Teaching at the Universidad de Zaragoza
+## Teaching at the Universidad de Zaragoza
 
 <!--
 
@@ -19,12 +20,10 @@ permalink: /resources/
 - [Computational Imaging [69155]](https://sia.unizar.es/documentos/doa/guiadocente/2022/69155_en.pdf)
 - [Fundamentos de informática [30007]](https://sia.unizar.es/documentos/doa/guiadocente/2022/30007_es.pdf)
 
-
 **Talks:**
 
 - [Reading a closed book](https://unizares-my.sharepoint.com/:p:/g/personal/aredo_unizar_es/EfSODC88q5dLiKdWH5kFt3QBkTvBd2UFPaYp6isq8q3Osw?e=yR9gau)
 - [What is light? (an informal talk)](https://unizares-my.sharepoint.com/:p:/g/personal/aredo_unizar_es/EROuMie942VGhj3RajsF3KAB5HVGBa_15-jfjMn4YTDRSA?e=Yg6N9O)
-
 
 **Repositories:**
 
