@@ -5,7 +5,7 @@ title: Home
 
 ![Profile picture](/assets/images/foto_pro.jpg){: width="180px" style="float:left; padding-right:30px" }
 
-# Albert Redo-Sanchez
+# Albert Redo-Sanchez, PhD
 
 Professor at the [Universidad de Zaragoza](https://eina.unizar.es/)
 
