@@ -6,11 +6,7 @@ description: Albert Redo-Sanchez, Professor at Universidad de Zaragoza. Research
 
 ![Albert Redo-Sanchez, Professor at Universidad de Zaragoza](/assets/images/foto_pro.jpg){: width="180px" style="float:left; padding-right:30px" }
 
-<<<<<<< HEAD
 # Albert Redo-Sanchez, PhD
-=======
-## Albert Redo-Sanchez
->>>>>>> 840a06dc206ba469898080c9bb9f90c2ec6411e2
 
 Professor at the [Universidad de Zaragoza](https://eina.unizar.es/)
 
