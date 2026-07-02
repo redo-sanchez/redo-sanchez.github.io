@@ -1,21 +1,22 @@
 ---
 layout: page
-title: About
+title: Contact
 permalink: /about/
+description: Contact information for Albert Redo-Sanchez, Professor at Universidad de Zaragoza.
 ---
 
-This site uses the base Jekyll theme **minima**
+## Albert Redo-Sanchez
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Professor, [Graphics and Imaging Lab](https://graphics.unizar.es/)
+[Universidad de Zaragoza](https://eina.unizar.es/) — Zaragoza, Spain
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**E-mail:** aredo at unizar.es
 
+**Phone:** +34 976761939
 
-[jekyll-organization]: https://github.com/jekyll
+**Profiles:**
 
-
-Copyright (c) 2025 Albert Redo-Sanchez
+- [ORCID 0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820)
+- [Google Scholar](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/redosanchez/)
+- [GitHub](https://github.com/redo-sanchez)
