@@ -10,7 +10,7 @@ description: Contact information for Albert Redo-Sanchez, Professor at Universid
 Professor, [Graphics and Imaging Lab](https://graphics.unizar.es/)
 [Universidad de Zaragoza](https://eina.unizar.es/) — Zaragoza, Spain
 
-**E-mail:** aredo at unizar.es
+**E-mail:** [aredo@unizar.es](mailto:aredo@unizar.es)
 
 **Phone:** +34 976761939
 

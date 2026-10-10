@@ -12,9 +12,9 @@ Professor at the [Universidad de Zaragoza](https://eina.unizar.es/)
 
 Research group: [Graphics and Imaging Lab](https://graphics.unizar.es/)
 
-E-mail: [aredo at unizar.es]; Phone: +34 976761939
+E-mail: [aredo@unizar.es](mailto:aredo@unizar.es); Phone: +34 976761939
 
-Current activity: [**Academic**](/academic.md)
+Current activity: [**Academic**](/academic/)
 \
 \
 | **ORCID:** [0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820) | [**Google Scholar** profile](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en) | [**LinkedIn** profile](https://www.linkedin.com/in/redosanchez/) |

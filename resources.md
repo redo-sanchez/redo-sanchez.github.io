@@ -17,8 +17,8 @@ description: Teaching materials and research tools from Albert Redo-Sanchez — 
 
 **Courses:**
 
-- [Computational Imaging [69155]](https://sia.unizar.es/documentos/doa/guiadocente/2022/69155_en.pdf)
-- [Fundamentos de informática [30007]](https://sia.unizar.es/documentos/doa/guiadocente/2022/30007_es.pdf)
+- [Computational Imaging [69155]](https://sia.unizar.es/documentos/doa/guiadocente/2026/69155_en.pdf)
+- [Fundamentos de informática [30007]](https://sia.unizar.es/documentos/doa/guiadocente/2026/30007_es.pdf)
 
 **Talks:**
 
@@ -27,6 +27,6 @@ description: Teaching materials and research tools from Albert Redo-Sanchez — 
 
 **Repositories:**
 
-- [**Zaragoza NLOS synthetic dataset**](https://graphics.unizar.es/nlos_dataset): synthetic non-line-of-sight scenes rendered using the publicly available transient renderer from Jarabo et al's work in [_A Framework for Transient Rendering_](http://giga.cps.unizar.es/~ajarabo/pubs/transientSIGA14/)
+- [**Zaragoza NLOS synthetic dataset**](https://graphics.unizar.es/nlos_dataset): synthetic non-line-of-sight scenes rendered using the publicly available transient renderer from Jarabo et al.'s work in [_A Framework for Transient Rendering_](http://giga.cps.unizar.es/~ajarabo/pubs/transientSIGA14/)
 - [**(Your)-Transient Auxiliary Library**](https://github.com/diegoroyo/tal): toolkit for simulation and analysis of time-resolved light transport captures
-- [**Mitsuba 3 - Physically Based Rendered**](https://www.mitsuba-renderer.org/): a research-oriented retargetable rendering system, written in portable C++17 on top of the Dr. Jit Just-In-Time compiler (developed by the [Realistic Graphics Lab](https://rgl.epfl.ch/) at EPFL)
+- [**Mitsuba 3 - Physically Based Renderer**](https://www.mitsuba-renderer.org/): a research-oriented retargetable rendering system, written in portable C++17 on top of the Dr. Jit Just-In-Time compiler (developed by the [Realistic Graphics Lab](https://rgl.epfl.ch/) at EPFL)
