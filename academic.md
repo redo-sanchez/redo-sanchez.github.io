@@ -56,7 +56,7 @@ _Research Assistant Professor_
 
 ## University of Barcelona
 
-_Postdoctoral associate_
+_Postdoctoral Associate_
 
 - Researched the application of terahertz imaging technology for cultural heritage inspection
 - Researched terahertz spectroscopy for pharmaceutical applications

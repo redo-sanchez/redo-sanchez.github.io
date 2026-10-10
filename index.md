@@ -12,11 +12,12 @@ Professor at the [Universidad de Zaragoza](https://eina.unizar.es/)
 
 Research group: [Graphics and Imaging Lab](https://graphics.unizar.es/)
 
-E-mail: [aredo@unizar.es](mailto:aredo@unizar.es); Phone: +34 976761939
+E-mail: [aredo@unizar.es](mailto:aredo@unizar.es); Phone: [+34 976 76 19 39](tel:+34976761939)
 
 Current activity: [**Academic**](/academic/)
-\
-\
+
+<div style="clear:both"></div>
+
 | **ORCID:** [0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820) | [**Google Scholar** profile](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en) | [**LinkedIn** profile](https://www.linkedin.com/in/redosanchez/) |
 
 ## Research areas
@@ -35,7 +36,7 @@ Current activity: [**Academic**](/academic/)
 - **Research:**
   - Experiment design, execution, data modeling, data analysis, and reporting
   - Proof of concept experiments and prototyping up to minimum viable product (MVP)
-- **Manager:**
+- **Management:**
   - Project planning, execution, and supervision
   - Proposal writing and funding
 - **Sales and business development:**

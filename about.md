@@ -12,7 +12,7 @@ Professor, [Graphics and Imaging Lab](https://graphics.unizar.es/)
 
 **E-mail:** [aredo@unizar.es](mailto:aredo@unizar.es)
 
-**Phone:** +34 976761939
+**Phone:** [+34 976 76 19 39](tel:+34976761939)
 
 **Profiles:**
 

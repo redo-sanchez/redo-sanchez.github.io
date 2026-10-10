@@ -13,4 +13,4 @@ The portfolio is structured in the following sections:
 - Publications
 - Media
 - Resources
-- About
+- Contact
