@@ -11,9 +11,9 @@ description: Journal papers, conference papers, and patents by Albert Redo-Sanch
 - [Other publications](#other-publications)
 - [Patents](#patents)
 
-## Journal papers
+18 journal papers have been published in journals indexed in Clarivate Journal Citation Reports (JCR). 13 of them (72%) are in Q1 journals and the other 5 in Q2 journals. Journals include Nature Communications (IF 12.124), Optica (IF 7.727), Scientific Reports, Optics Express, Optics Letters, Analyst and IEEE Transactions on Microwave Theory and Techniques. The cumulative impact factor is 70.0, with an average of 3.9 per paper. Five of the Q1 papers are first-authored. Each figure uses the JCR edition for the paper's year of publication and the journal's best-ranked category.
 
-**13 papers in Q1 journals** and 5 in Q2 journals (Clarivate Journal Citation Reports). Each entry shows the Journal Impact Factor (IF) and quartile from the JCR edition for its year of publication, using the journal's best-ranked category.
+## Journal papers
 
 1. Chu, V., Pueyo-Ciutad, O., Tseng, E., Schiffers, F., Kuo, G., Matsuda, N., **Redo-Sanchez, A.**, Lanman, D., Cossairt, O., & Heide, F. (2025). Artifact-resilient real-time holography. ACM Transactions on Graphics, 44(6), 219. [doi: 10.1145/3763361](https://doi.org/10.1145/3763361)
 
