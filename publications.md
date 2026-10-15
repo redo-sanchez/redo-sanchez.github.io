@@ -25,7 +25,7 @@ description: Journal papers, conference papers, and patents by Albert Redo-Sanch
 
 5. Cultrera, A., Serazio, D., Zurutuza, A., Centeno, A., Txoperena, O., Etayo, D., Cordon, A., **Redo-Sanchez, A.**, Arnedo, I., Ortolano, M., & Callegaro, L. (2019). Mapping the conductivity of graphene with Electrical Resistance Tomography. Scientific Reports, 9(1), 10655. [doi: 10.1038/s41598-019-46713-8](https://www.nature.com/articles/s41598-019-46713-8) <br><small>JCR 2019 · IF 3.998 · **Q1** · Multidisciplinary Sciences</small>
 
-6. Mackenzie, D. M. A., Whelan, P. R., Bøggild, P., Jepsen, P. U., **Redo-Sanchez, A.**, Etayo, D., Fabricius, N. & Petersen, D. H. (2018). Quality assessment of terahertz time-domain spectroscopy transmission and reflection modes for graphene conductivity mapping. Optics Express, 26(7), 9220–9229. [doi: 10.1364/oe.26.009220](https://opg.optica.org/oe/fulltext.cfm?uri=oe-26-7-9220&id=385185) <br><small>JCR 2018 · IF 3.561 · **Q1** · Optics</small>
+6. Mackenzie, D. M. A., Whelan, P. R., Bøggild, P., Jepsen, P. U., **Redo-Sanchez, A.**, Etayo, D., Fabricius, N., & Petersen, D. H. (2018). Quality assessment of terahertz time-domain spectroscopy transmission and reflection modes for graphene conductivity mapping. Optics Express, 26(7), 9220–9229. [doi: 10.1364/oe.26.009220](https://opg.optica.org/oe/fulltext.cfm?uri=oe-26-7-9220&id=385185) <br><small>JCR 2018 · IF 3.561 · **Q1** · Optics</small>
 
 7. Heshmat, B., Andrews, G. M., Naranjo-Montoya, O. A., Castro-Camus, E., Ciceri, D., **Redo-Sanchez, A.**, Allanore, A., Kmetz, A. A., Eichmann, S. L., Poitzsch, M. E., & Raskar, R. (2017). Terahertz scattering and water absorption for porosimetry. Optics Express, 25(22), 27370–27385. [doi: 10.1364/oe.25.027370](https://opg.optica.org/oe/fulltext.cfm?uri=oe-25-22-27370&id=375870) <br><small>JCR 2017 · IF 3.356 · **Q1** · Optics</small>
 
@@ -73,7 +73,7 @@ description: Journal papers, conference papers, and patents by Albert Redo-Sanch
 
 6. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2014). Non-destructive imaging with compact and portable terahertz systems. AIP Conference Proceedings, 1581(1), 1583–1587. [doi: 10.1063/1.4865012](https://doi.org/10.1063/1.4865012)
 
-7. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2013). Compact, portable Terahertz systems for on-site inspection applications. 2013 38th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz), 1–1. [doi: 10.1109/irmmw-thz.2013.6665510](https://ieeexplore.ieee.org/document/6665510)
+7. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2013). Compact, portable Terahertz systems for on-site inspection applications. 2013 38th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz). [doi: 10.1109/irmmw-thz.2013.6665510](https://ieeexplore.ieee.org/document/6665510)
 
 8. Ferrer-Mico, T., Prats-Fernàndez, M. À., & **Redo-Sanchez, A.** (2012). Impact of Scratch programming on students' understanding of their own learning process. Procedia - Social and Behavioral Sciences (WCES 2012), 46, 1219–1223. [doi: 10.1016/j.sbspro.2012.05.278](https://doi.org/10.1016/j.sbspro.2012.05.278)
 
@@ -83,11 +83,11 @@ description: Journal papers, conference papers, and patents by Albert Redo-Sanch
 
 11. Zeng, G., Zhang, X.-C., **Redo-Sanchez, A.**, & Embrechts, M. J. (2007). Independent Component Analysis for Separating Water Vapor Spectrum from Terahertz Spectra. Intelligent Engineering Systems Through Artificial Neural Networks, 585–591. [doi: 10.1115/1.802655.paper92](https://doi.org/10.1115/1.802655.paper92)
 
-12. **Redo-Sanchez, A.**, Karpowicz, N., & Zhang, X. -C. (2006). Sensing and Imaging with Continuous-Wave Terahertz Systems. AIP Conference Proceedings, 820(1), 508–514. [doi: 10.1063/1.2184570](https://doi.org/10.1063/1.2184570)
+12. **Redo-Sanchez, A.**, Karpowicz, N., & Zhang, X.-C. (2006). Sensing and Imaging with Continuous-Wave Terahertz Systems. AIP Conference Proceedings, 820(1), 508–514. [doi: 10.1063/1.2184570](https://doi.org/10.1063/1.2184570)
 
 13. Zhong, H., Karpowicz, N., **Redo-Sanchez, A.**, Li, X., Wang, S. H., Ferguson, B., & Zhang, X.-C. (2006). Terahertz Wave Imaging Technology. 4th World Congress on Industrial Process Tomography.
 
-14. Zeng, G., Embrechts, M., **Redo-Sanchez, A.**, Han, L., & Zhang, X.-C. (2006). Independent component analysis for materials identification from terahertz spectra. Intelligent Engineering Systems through Artificial Neural Networks, 16.
+14. Zeng, G., Embrechts, M., **Redo-Sanchez, A.**, Han, L., & Zhang, X.-C. (2006). Independent component analysis for materials identification from terahertz spectra. Intelligent Engineering Systems Through Artificial Neural Networks, 16.
 
 15. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2006). THz wave standoff detection of explosive materials. Terahertz for Military and Security Applications IV, Proc. SPIE 6212, 62120L. [doi: 10.1117/12.665360](https://doi.org/10.1117/12.665360)
 
