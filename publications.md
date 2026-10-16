@@ -61,53 +61,57 @@ description: Journal papers, conference papers, and patents by Albert Redo-Sanch
 
 ## Conference papers
 
-1. Christnacher, F., Laurenzis, M., Schertzer, S., Spaett, A., **Redo-Sanchez, A.**, & Gutierrez, D. (2025). Influence of some acquisition parameters in non-line-of-sight imaging. Emerging Technologies and Materials for Security and Defence 2025. [doi: 10.1117/12.3069294](https://doi.org/10.1117/12.3069294)
+1. Pueyo-Ciutad, O., Enguita-Lahoz, G., Moon, Y., Maeda, R., Baek, S.-H., **Redo-Sanchez, A.**, & Gutierrez, D. (2026). Transient polarimetry. SIGGRAPH 2026 Posters, 1–3. Association for Computing Machinery.
 
-2. Pueyo-Ciutad, O., Marco, J., Schertzer, S., Christnacher, F., Laurenzis, M., Gutierrez, D., & **Redo-Sanchez, A.** (2024). Time-Gated Polarization for Active Non-Line-Of-Sight Imaging. SIGGRAPH Asia 2024 Conference Papers, 1–11. Tokyo, Japan: Association for Computing Machinery. [doi: 10.1145/3680528.3687575](https://dl.acm.org/doi/10.1145/3680528.3687575)
+2. Christnacher, F., Laurenzis, M., Schertzer, S., Spaett, A., **Redo-Sanchez, A.**, & Gutierrez, D. (2025). Influence of some acquisition parameters in non-line-of-sight imaging. Emerging Technologies and Materials for Security and Defence 2025. [doi: 10.1117/12.3069294](https://doi.org/10.1117/12.3069294)
 
-3. Cordon, A., Miranda, L., Martinez, C., Ines, A., Etayo, D., Fernandez, M., Rodriguez, P., Taboada, E., **Redo-Sanchez, A.**, Castrillo, M., Laso, M. A. G., & Arnedo, I. (2019). THz to Inspect Graphene and Thin Film Materials. 2019 44th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz). [doi: 10.1109/irmmw-thz.2019.8874447](https://ieeexplore.ieee.org/document/8874447)
+3. Pueyo-Ciutad, O., Marco, J., Schertzer, S., Christnacher, F., Laurenzis, M., Gutierrez, D., & **Redo-Sanchez, A.** (2024). Time-Gated Polarization for Active Non-Line-Of-Sight Imaging. SIGGRAPH Asia 2024 Conference Papers, 1–11. Tokyo, Japan: Association for Computing Machinery. [doi: 10.1145/3680528.3687575](https://dl.acm.org/doi/10.1145/3680528.3687575)
 
-4. Callegaro, L., Cassiago, C., Cultrera, A., D’Elia, V., Serazio, D., Ortolano, M., Marzano, M., Kazakova, O., Melios, C., Raso, F., Matias, L., Zurutuza, A., Centeno, A., **Redo-Sanchez, A.**, Kretinin, A., Sann-Ferro, K., Fabricius, A., Weking, G., Bergholz, W., & Fabricius, N. (2018). GRACE: Developing Electrical Characterisation Methods for Future Graphene Electronics. 2018 Conference on Precision Electromagnetic Measurements (CPEM 2018). [doi: 10.1109/cpem.2018.8501012](https://ieeexplore.ieee.org/document/8501012)
+4. Cordon, A., Miranda, L., Martinez, C., Ines, A., Etayo, D., Fernandez, M., Rodriguez, P., Taboada, E., **Redo-Sanchez, A.**, Castrillo, M., Laso, M. A. G., & Arnedo, I. (2019). THz to Inspect Graphene and Thin Film Materials. 2019 44th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz). [doi: 10.1109/irmmw-thz.2019.8874447](https://ieeexplore.ieee.org/document/8874447)
 
-5. Satat, G., Heshmat, B., Naik, N., **Redo-Sanchez, A.**, & Raskar, R. (2016). Advances in ultrafast optics and imaging applications. Ultrafast Bandgap Photonics, Proc. SPIE 9835, 98350Q. [doi: 10.1117/12.2222438](https://doi.org/10.1117/12.2222438)
+5. Callegaro, L., Cassiago, C., Cultrera, A., D’Elia, V., Serazio, D., Ortolano, M., Marzano, M., Kazakova, O., Melios, C., Raso, F., Matias, L., Zurutuza, A., Centeno, A., **Redo-Sanchez, A.**, Kretinin, A., Sann-Ferro, K., Fabricius, A., Weking, G., Bergholz, W., & Fabricius, N. (2018). GRACE: Developing Electrical Characterisation Methods for Future Graphene Electronics. 2018 Conference on Precision Electromagnetic Measurements (CPEM 2018). [doi: 10.1109/cpem.2018.8501012](https://ieeexplore.ieee.org/document/8501012)
 
-6. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2014). Non-destructive imaging with compact and portable terahertz systems. AIP Conference Proceedings, 1581(1), 1583–1587. [doi: 10.1063/1.4865012](https://doi.org/10.1063/1.4865012)
+6. Satat, G., Heshmat, B., Naik, N., **Redo-Sanchez, A.**, & Raskar, R. (2016). Advances in ultrafast optics and imaging applications. Ultrafast Bandgap Photonics, Proc. SPIE 9835, 98350Q. [doi: 10.1117/12.2222438](https://doi.org/10.1117/12.2222438)
 
-7. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2013). Compact, portable Terahertz systems for on-site inspection applications. 2013 38th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz). [doi: 10.1109/irmmw-thz.2013.6665510](https://ieeexplore.ieee.org/document/6665510)
+7. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2014). Non-destructive imaging with compact and portable terahertz systems. AIP Conference Proceedings, 1581(1), 1583–1587. [doi: 10.1063/1.4865012](https://doi.org/10.1063/1.4865012)
 
-8. Ferrer-Mico, T., Prats-Fernàndez, M. À., & **Redo-Sanchez, A.** (2012). Impact of Scratch programming on students' understanding of their own learning process. Procedia - Social and Behavioral Sciences (WCES 2012), 46, 1219–1223. [doi: 10.1016/j.sbspro.2012.05.278](https://doi.org/10.1016/j.sbspro.2012.05.278)
+8. **Redo-Sanchez, A.**, Laman, N., Schulkin, B., & Tongue, T. (2013). Compact, portable Terahertz systems for on-site inspection applications. 2013 38th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz). [doi: 10.1109/irmmw-thz.2013.6665510](https://ieeexplore.ieee.org/document/6665510)
 
-9. Zhang, J., Zhang, X.-C., & **Redo-Sanchez, A.** (2012). THz Polarization-Dependent Imaging of Nuclear Graphite. Frontiers in Optics.
+9. Ferrer-Mico, T., Prats-Fernàndez, M. À., & **Redo-Sanchez, A.** (2012). Impact of Scratch programming on students' understanding of their own learning process. Procedia - Social and Behavioral Sciences (WCES 2012), 46, 1219–1223. [doi: 10.1016/j.sbspro.2012.05.278](https://doi.org/10.1016/j.sbspro.2012.05.278)
 
-10. Song, Q., **Redo-Sanchez, A.**, Zhao, Y., & Zhang, C. (2008). High speed imaging with CW THz for security. 2008 International Conference on Optical Instruments and Technology: Optoelectronic Measurement Technology and Applications, Proc. SPIE 7160, 716016. [doi: 10.1117/12.807197](https://doi.org/10.1117/12.807197)
+10. Zhang, J., Zhang, X.-C., & **Redo-Sanchez, A.** (2012). THz Polarization-Dependent Imaging of Nuclear Graphite. Frontiers in Optics.
 
-11. Zeng, G., Zhang, X.-C., **Redo-Sanchez, A.**, & Embrechts, M. J. (2007). Independent Component Analysis for Separating Water Vapor Spectrum from Terahertz Spectra. Intelligent Engineering Systems Through Artificial Neural Networks, 585–591. [doi: 10.1115/1.802655.paper92](https://doi.org/10.1115/1.802655.paper92)
+11. Song, Q., **Redo-Sanchez, A.**, Zhao, Y., & Zhang, C. (2008). High speed imaging with CW THz for security. 2008 International Conference on Optical Instruments and Technology: Optoelectronic Measurement Technology and Applications, Proc. SPIE 7160, 716016. [doi: 10.1117/12.807197](https://doi.org/10.1117/12.807197)
 
-12. **Redo-Sanchez, A.**, Karpowicz, N., & Zhang, X.-C. (2006). Sensing and Imaging with Continuous-Wave Terahertz Systems. AIP Conference Proceedings, 820(1), 508–514. [doi: 10.1063/1.2184570](https://doi.org/10.1063/1.2184570)
+12. Zeng, G., Zhang, X.-C., **Redo-Sanchez, A.**, & Embrechts, M. J. (2007). Independent Component Analysis for Separating Water Vapor Spectrum from Terahertz Spectra. Intelligent Engineering Systems Through Artificial Neural Networks, 585–591. [doi: 10.1115/1.802655.paper92](https://doi.org/10.1115/1.802655.paper92)
 
-13. Zhong, H., Karpowicz, N., **Redo-Sanchez, A.**, Li, X., Wang, S. H., Ferguson, B., & Zhang, X.-C. (2006). Terahertz Wave Imaging Technology. 4th World Congress on Industrial Process Tomography.
+13. **Redo-Sanchez, A.**, Karpowicz, N., & Zhang, X.-C. (2006). Sensing and Imaging with Continuous-Wave Terahertz Systems. AIP Conference Proceedings, 820(1), 508–514. [doi: 10.1063/1.2184570](https://doi.org/10.1063/1.2184570)
 
-14. Zeng, G., Embrechts, M., **Redo-Sanchez, A.**, Han, L., & Zhang, X.-C. (2006). Independent component analysis for materials identification from terahertz spectra. Intelligent Engineering Systems Through Artificial Neural Networks, 16.
+14. Zhong, H., Karpowicz, N., **Redo-Sanchez, A.**, Li, X., Wang, S. H., Ferguson, B., & Zhang, X.-C. (2006). Terahertz Wave Imaging Technology. 4th World Congress on Industrial Process Tomography.
 
-15. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2006). THz wave standoff detection of explosive materials. Terahertz for Military and Security Applications IV, Proc. SPIE 6212, 62120L. [doi: 10.1117/12.665360](https://doi.org/10.1117/12.665360)
+15. Zeng, G., Embrechts, M., **Redo-Sanchez, A.**, Han, L., & Zhang, X.-C. (2006). Independent component analysis for materials identification from terahertz spectra. Intelligent Engineering Systems Through Artificial Neural Networks, 16.
 
-16. **Redo-Sanchez, A.**, Karpowicz, N., Xu, J., & Zhang, X.-C. (2006). Damage and defect inspection with terahertz waves. The 4th International Workshop on Ultrasonic and Advanced Methods for Nondestructive Testing and Material Characterization, 11, 67–77. [NDT.net full text](https://www.ndt.net/article/v11n07/papers/08.pdf)
+16. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2006). THz wave standoff detection of explosive materials. Terahertz for Military and Security Applications IV, Proc. SPIE 6212, 62120L. [doi: 10.1117/12.665360](https://doi.org/10.1117/12.665360)
 
-17. Karpowicz, N., **Redo-Sanchez, A.**, Zhong, H., Li, X., Xu, J., & Zhang, X.-C. (2005). Continuous-wave terahertz imaging for non-destructive testing applications. Joint 30th International Conference on Infrared and Millimeter Waves and 13th International Conference on Terahertz Electronics, 1, 329–330. [doi: 10.1109/icimw.2005.1572542](https://doi.org/10.1109/icimw.2005.1572542)
+17. **Redo-Sanchez, A.**, Karpowicz, N., Xu, J., & Zhang, X.-C. (2006). Damage and defect inspection with terahertz waves. The 4th International Workshop on Ultrasonic and Advanced Methods for Nondestructive Testing and Material Characterization, 11, 67–77. [NDT.net full text](https://www.ndt.net/article/v11n07/papers/08.pdf)
 
-18. Liu, H., Zhong, H., Karpowicz, N., Li, X., **Redo-Sanchez, A.**, Chen, Y., Xu, J., Zhang, X.-C., Han, H., & Jin, Y.-S. (2005). THz Photonics Technology and Its Applications. 2005 International Topical Meeting on Microwave Photonics. [doi: 10.1109/MWP.2005.203530](https://doi.org/10.1109/MWP.2005.203530)
+18. Karpowicz, N., **Redo-Sanchez, A.**, Zhong, H., Li, X., Xu, J., & Zhang, X.-C. (2005). Continuous-wave terahertz imaging for non-destructive testing applications. Joint 30th International Conference on Infrared and Millimeter Waves and 13th International Conference on Terahertz Electronics, 1, 329–330. [doi: 10.1109/icimw.2005.1572542](https://doi.org/10.1109/icimw.2005.1572542)
 
-19. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2005). Standoff Distance Detection of Explosive Materials with THz Waves. 2005 Joint 30th International Conference on Infrared and Millimeter Waves and 13th International Conference on Terahertz Electronics, 1, 42–43. [doi: 10.1109/icimw.2005.1572397](https://ieeexplore.ieee.org/document/1572397)
+19. Liu, H., Zhong, H., Karpowicz, N., Li, X., **Redo-Sanchez, A.**, Chen, Y., Xu, J., Zhang, X.-C., Han, H., & Jin, Y.-S. (2005). THz Photonics Technology and Its Applications. 2005 International Topical Meeting on Microwave Photonics. [doi: 10.1109/MWP.2005.203530](https://doi.org/10.1109/MWP.2005.203530)
 
-20. Ruiz, X., Ramírez-Piscina, L., **Redo-Sanchez, A.**, & Casademunt, J. (2001). Nonlinear Response of Fluid Flow to G-Jitter in Differentially Heated Cavities. Subharmonic Route to Chaos and Beyond. First International Symposium on Microgravity Research and Applications in Physical Sciences and Biotechnology, ESA SP-454, 871. [NASA ADS abstract](https://adsabs.harvard.edu/full/2001ESASP.454..871R)
+20. Zhong, H., **Redo-Sanchez, A.**, Chen, Y., & Zhang, X.-C. (2005). Standoff Distance Detection of Explosive Materials with THz Waves. 2005 Joint 30th International Conference on Infrared and Millimeter Waves and 13th International Conference on Terahertz Electronics, 1, 42–43. [doi: 10.1109/icimw.2005.1572397](https://ieeexplore.ieee.org/document/1572397)
+
+21. Ruiz, X., Ramírez-Piscina, L., **Redo-Sanchez, A.**, & Casademunt, J. (2001). Nonlinear Response of Fluid Flow to G-Jitter in Differentially Heated Cavities. Subharmonic Route to Chaos and Beyond. First International Symposium on Microgravity Research and Applications in Physical Sciences and Biotechnology, ESA SP-454, 871. [NASA ADS abstract](https://adsabs.harvard.edu/full/2001ESASP.454..871R)
 
 ## Other publications
 
-1. Zhang, X.-C., & **Redo-Sanchez, A.** (2012). Handheld THz Instrumentation. SPIE Professional. [doi: 10.1117/2.4201204.09](https://doi.org/10.1117/2.4201204.09)
+1. **Redo-Sanchez, A.**, & Zhang, X.-C. (2013). THz photonics. In C. H. Lee (Ed.), Microwave Photonics (2nd ed., pp. 423–475). CRC Press.
 
-2. **Redo-Sanchez, A.** (2012). The Terahertz Wave eBook: Technical Overview. Zomega Terahertz Corporation, East Greenbush, NY, United States.
+2. Zhang, X.-C., & **Redo-Sanchez, A.** (2012). Handheld THz Instrumentation. SPIE Professional. [doi: 10.1117/2.4201204.09](https://doi.org/10.1117/2.4201204.09)
 
-3. **Redo-Sanchez, A.**, Broquetas, A., Romeu, J., & Jofre, L. (2009). Terahertz technology review and outlook. Leitat Technological Center and Universitat Politècnica de Catalunya.
+3. **Redo-Sanchez, A.** (2012). The Terahertz Wave eBook: Technical Overview. Zomega Terahertz Corporation, East Greenbush, NY, United States.
+
+4. **Redo-Sanchez, A.**, Broquetas, A., Romeu, J., & Jofre, L. (2009). Terahertz technology review and outlook. Leitat Technological Center and Universitat Politècnica de Catalunya.
 
 ## Patents
 
@@ -137,10 +141,12 @@ description: Journal papers, conference papers, and patents by Albert Redo-Sanch
 
 13. Dehkordi, B. H., **Redo-Sanchez, A.**, Raskar, R., Aghasi, A., & Romberg, J. (2020). Methods and apparatus for imaging of layers. United States Patent and Trademark Office, Patent No. [US-10796190-B2](https://patents.google.com/patent/US10796190B2/en).
 
-14. López-Zorzano, A., Etayo-Salinas, D., Fernández-Vallejo, M., Chudzik, M., **Redo-Sanchez, A.**, & Azanza-Ladrón, E. (2019). Method for Characterising a Material with Layered Structure and a Measuring System. European Patent Office, Patent No. [EP-3516373](https://patentscope.wipo.int/search/en/detail.jsf?docId=EP249467446).
+14. Dehkordi, B. H., **Redo-Sanchez, A.**, Andrews, G. M., & Raskar, R. (2019). Methods and apparatus for high resolution imaging with reflectors at staggered depths beneath sample. United States Patent and Trademark Office, Patent No. [US-10386650-B2](https://patents.google.com/patent/US10386650B2/en).
 
-15. Sinha, S., Park, H., **Redo-Sanchez, A.**, Lawson, M. E., Savidis, N., Rachapudi, P., Raskar, R., & Patalano, V. (2018). Methods and Apparatus for Anterior Segment Ocular Imaging. United States Patent and Trademark Office, Patent No. [US-10105049-B2](https://patents.google.com/patent/US10105049B2/en).
+15. López-Zorzano, A., Etayo-Salinas, D., Fernández-Vallejo, M., Chudzik, M., **Redo-Sanchez, A.**, & Azanza-Ladrón, E. (2019). Method for Characterising a Material with Layered Structure and a Measuring System. European Patent Office, Patent No. [EP-3516373](https://patentscope.wipo.int/search/en/detail.jsf?docId=EP249467446).
 
-16. Moya-Garcia, J. J., & **Redo-Sanchez, A.** (2004). Palpation system for insertion of windows in vehicles. World Intellectual Property Organization, International Application No. PCT/ES2004/000248.
+16. Sinha, S., Park, H., **Redo-Sanchez, A.**, Lawson, M. E., Savidis, N., Rachapudi, P., Raskar, R., & Patalano, V. (2018). Methods and Apparatus for Anterior Segment Ocular Imaging. United States Patent and Trademark Office, Patent No. [US-10105049-B2](https://patents.google.com/patent/US10105049B2/en).
 
-17. **Redo-Sanchez, A.** (2004). Device for separating, lifting and moving aluminium sheets or other non-ferromagnetic material. United States Patent and Trademark Office, Patent No. [US-6746063-B1](https://patentscope.wipo.int/search/en/detail.jsf?docId=US40567436).
+17. Moya-Garcia, J. J., & **Redo-Sanchez, A.** (2004). Palpation system for insertion of windows in vehicles. World Intellectual Property Organization, International Application No. PCT/ES2004/000248.
+
+18. **Redo-Sanchez, A.** (2004). Device for separating, lifting and moving aluminium sheets or other non-ferromagnetic material. United States Patent and Trademark Office, Patent No. [US-6746063-B1](https://patentscope.wipo.int/search/en/detail.jsf?docId=US40567436).

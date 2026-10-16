@@ -13,6 +13,8 @@ description: Industry experience of Albert Redo-Sanchez — Brelyon, das-Nano, a
 
 ## Research Scientist at Brelyon
 
+_Feb. 2021 – Sep. 2023 (remote)_
+
 - Patent ideation and writing
 - Optical design and simulation
 
