@@ -29,6 +29,17 @@ positions:
       - { label: Brelyon website, url: "https://brelyon.com/" }
       - { label: Brelyon YouTube channel, url: "https://www.youtube.com/@brelyon/videos" }
 
+  - id: lynntech
+    kind: industry
+    org: Lynntech
+    place: College Station TX, United States
+    role: Scientist II
+    dates: Nov. 2018 – Jan. 2020
+    bullets:
+      - Led machine-learning research for non-destructive testing and defence applications
+      - Built adversarial attacks in TensorFlow and PyTorch against production image detectors and classifiers
+      - "Principal investigator of two 2019 SBIR Phase I awards: U.S. Air Force ($150k) and NASA ($125k)"
+
   - id: dasnano
     kind: industry
     org: das-Nano
@@ -83,7 +94,7 @@ positions:
     org: University of Barcelona
     place: Barcelona, Spain
     role: Postdoctoral Associate
-    dates: Jul. 2009 – Jul. 2010
+    dates: Nov. 2009 – Jul. 2010
     bullets:
       - Researched the application of terahertz imaging technology for cultural heritage inspection
       - Researched terahertz spectroscopy for pharmaceutical applications
@@ -95,7 +106,18 @@ positions:
     unit: European Project Office
     place: Terrassa, Spain
     role: Project Manager
-    dates: Sep. 2008 – Jun. 2009
+    dates: Sep. 2008 – Oct. 2009
+
+  - id: asm
+    kind: industry
+    org: ASM-Dimatec Ingeniería
+    place: Reus, Spain
+    role: R&D and IT Manager
+    dates: Dec. 2001 – Jul. 2004
+    bullets:
+      - Developed a microwave adhesive quality-control device
+      - Developed a robotic positioning system for automated windshield insertion (PCT/ES2004/000248)
+      - Co-led the European IDA-STEP project
 
 education:
   - degree: PhD in Applied Physics

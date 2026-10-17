@@ -13,7 +13,7 @@
 11. Terahertz science and technology review. Universitat Politècnica de Catalunya, Barcelona, Spain, May 2009.
 12. Terahertz science and technology for security applications. Upstate New York Electronic Crimes Coalition Conference, Troy NY, United States, Nov. 2007.
 13. Sensing explosive and related compounds with terahertz technology: from laboratory demonstration to open field applications. Gordon Research Conference, Big Sky MT, United States, Sep. 2007.
-14. Damage and defect inspection with terahertz waves. University at Dartmouth, Dartmouth MA, United States, Jun. 2006.
+14. Damage and defect inspection with terahertz waves. University of Massachusetts Dartmouth, Dartmouth MA, United States, Jun. 2006.
 15. Continuous-wave terahertz systems. Capital Normal University, Beijing, China, Mar. 2006.
 16. Sensing and imaging with CW terahertz systems. Quantitative Non-Destructive Evaluation Conference, Brunswick ME, United States, Jul. 2005.
 17. Sensing and imaging with continuous-wave terahertz. Rensselaer Polytechnic Institute, Troy NY, United States, Oct. 2005.
