@@ -17,18 +17,13 @@ description: Albert Redo-Sanchez, Professor at Universidad de Zaragoza. Research
         <a href="https://orcid.org/0000-0002-0601-4820"><i class="ai ai-orcid"></i>ORCID</a>
         <a href="https://www.linkedin.com/in/redosanchez/"><i class="fa-brands fa-linkedin"></i>LinkedIn</a>
         <a href="https://github.com/redo-sanchez"><i class="fa-brands fa-github"></i>GitHub</a>
+        <a class="hero-cv" href="{{ '/assets/cv/Albert_Redo-Sanchez_CV.pdf' | relative_url }}"><i class="fa-solid fa-file-arrow-down"></i>Download CV</a>
       </nav>
     </div>
   </div>
 </section>
 
-<p class="lead">
-Albert Redo-Sanchez is a Professor at the Universidad de Zaragoza and a member of the Graphics and Imaging Lab,
-where he works on non-line-of-sight and transient imaging: reconstructing scenes that are hidden from direct view.
-His career spans academia and industry, from research at the MIT Media Lab, Rensselaer Polytechnic Institute and
-the University of Barcelona to leading terahertz technology at das-Nano, business development at Zomega Terahertz
-Corporation and optical design at Brelyon. He has authored 22 journal papers and is an inventor on 18 patents.
-</p>
+<p class="lead">{{ site.data.profile.bio }}</p>
 
 ## Recent highlights
 
@@ -80,20 +75,16 @@ Corporation and optical design at Brelyon. He has authored 22 journal papers and
 ## Research areas
 
 <ul class="chips">
-  <li>Non-line-of-sight (NLOS) imaging</li>
-  <li>Transient imaging</li>
-  <li>Computer vision and machine learning</li>
-  <li>Modeling and simulation</li>
-  <li>Terahertz technology</li>
-  <li>Non-destructive testing</li>
+  {%- for area in site.data.profile.research_areas %}
+  <li>{{ area }}</li>
+  {%- endfor %}
 </ul>
 
 ## Skillset
 
 <div class="skill-grid">
-  <div><h3><i class="fa-solid fa-code"></i> Code and data processing</h3><p>Python, C/C++, Matlab, Mathematica, LabView</p></div>
-  <div><h3><i class="fa-solid fa-compass-drafting"></i> Design</h3><p>Zemax, SolidWorks, Fusion360, VRED</p></div>
-  <div><h3><i class="fa-solid fa-flask"></i> Research</h3><p>Experiment design, execution, data modeling, analysis and reporting; proof-of-concept experiments and prototyping up to a minimum viable product (MVP)</p></div>
-  <div><h3><i class="fa-solid fa-diagram-project"></i> Management</h3><p>Project planning, execution and supervision; proposal writing and funding</p></div>
-  <div><h3><i class="fa-solid fa-handshake"></i> Sales and business development</h3><p>Customer requirements collection and analysis; relationships with distributors; commercial product development</p></div>
+  {%- for sk in site.data.profile.skills %}
+  <div><h3><i class="fa-solid {{ sk.icon }}"></i> {{ sk.title }}</h3><p>{{ sk.text }}</p></div>
+  {%- endfor %}
 </div>
+

@@ -1,0 +1,24 @@
+{%- comment -%}
+  Role, dates, place and bullets for one entry of _data/positions.yml.
+  Usage: {% include position.html id="mit" %}; add hide_role=true when the heading already names the role.
+{%- endcomment -%}
+{%- assign pos = site.data.positions.positions | where: "id", include.id | first -%}
+<div class="tl-meta">
+  {%- unless include.hide_role %}
+  <span class="tl-role">{{ pos.role }}{% if pos.unit %} · {{ pos.unit }}{% endif %}</span>
+  {%- endunless %}
+  <span class="tl-dates"><i class="fa-regular fa-calendar"></i> {{ pos.dates }}</span>
+  <span class="tl-place"><i class="fa-solid fa-location-dot"></i> {{ pos.place }}</span>
+</div>
+<ul>
+  {%- for b in pos.bullets %}
+  <li>{{ b | markdownify | remove: "<p>" | remove: "</p>" | strip }}</li>
+  {%- endfor %}
+</ul>
+{%- if pos.links %}
+<p class="tl-links">
+  {%- for l in pos.links %}
+  <a href="{{ l.url }}"><i class="fa-solid fa-arrow-up-right-from-square fa-xs"></i> {{ l.label }}</a>
+  {%- endfor %}
+</p>
+{%- endif %}

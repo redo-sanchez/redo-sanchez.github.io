@@ -1,0 +1,24 @@
+# Profile text shared by the home page and the CV.
+
+bio: >-
+  Albert Redo-Sanchez is a Professor at the Universidad de Zaragoza and a member of the Graphics and
+  Imaging Lab, where he works on non-line-of-sight and transient imaging: reconstructing scenes that are
+  hidden from direct view. His career spans academia and industry, from research at the MIT Media Lab,
+  Rensselaer Polytechnic Institute and the University of Barcelona to leading terahertz technology at
+  das-Nano, business development at Zomega Terahertz Corporation and optical design at Brelyon. He has
+  authored 22 journal papers and is an inventor on 18 patents.
+
+research_areas:
+  - Non-line-of-sight (NLOS) imaging
+  - Transient imaging
+  - Computer vision and machine learning
+  - Modeling and simulation
+  - Terahertz technology
+  - Non-destructive testing
+
+skills:
+  - { icon: fa-code, title: Code and data processing, text: "Python, C/C++, Matlab, Mathematica, LabView" }
+  - { icon: fa-compass-drafting, title: Design, text: "Zemax, SolidWorks, Fusion360, VRED" }
+  - { icon: fa-flask, title: Research, text: "Experiment design, execution, data modeling, analysis and reporting; proof-of-concept experiments and prototyping up to a minimum viable product (MVP)" }
+  - { icon: fa-diagram-project, title: Management, text: "Project planning, execution and supervision; proposal writing and funding" }
+  - { icon: fa-handshake, title: Sales and business development, text: "Customer requirements collection and analysis; relationships with distributors; commercial product development" }

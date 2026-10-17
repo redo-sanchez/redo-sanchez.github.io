@@ -1,0 +1,96 @@
+# Career positions and education: the single source for the Academic and
+# Professional timelines and for the CV. Newest first. Bullets accept Markdown.
+# kind: academic | industry
+
+positions:
+  - id: unizar
+    kind: academic
+    org: Universidad de Zaragoza
+    unit: Graphics and Imaging Lab
+    place: Zaragoza, Spain
+    role: Professor
+    dates: Mar. 2021 – present
+    bullets:
+      - Co-principal investigator in project ENLIGHTEN by the [European Defence Fund](https://defence-industry-space.ec.europa.eu/eu-defence-industry/european-defence-fund-edf_en)
+      - Cohesive framework for non-line-of-sight imaging based on Dirac notation
+      - Non-line-of-sight imaging in the presence of scattering media using phasor fields (paper [here](https://opg.optica.org/ol/fulltext.cfm?uri=ol-47-15-3796&id=481513))
+      - "[Teaching](/resources/)"
+
+  - id: brelyon
+    kind: industry
+    org: Brelyon
+    place: Remote
+    role: Research Scientist
+    dates: Feb. 2021 – Sep. 2023
+    bullets:
+      - Patent ideation and writing
+      - Optical design and simulation
+    links:
+      - { label: Brelyon website, url: "https://brelyon.com/" }
+      - { label: Brelyon YouTube channel, url: "https://www.youtube.com/@brelyon/videos" }
+
+  - id: dasnano
+    kind: industry
+    org: das-Nano
+    place: Pamplona, Spain
+    role: Director of Terahertz Technology
+    dates: Apr. 2016 – Nov. 2019
+    bullets:
+      - "[**IRYS:**](https://das-nano.com/products/irys/) non-contact multi-layer thickness measurement for the automotive industry"
+      - "[**NOTUS:**](https://das-nano.com/notus-terahertz-technology/) system for multi-layer thickness and adherence characterization of composite structures"
+      - "[**ONYX:**](https://das-nano.com/onyx-terahertz-technology/) system for 2D materials characterization for the semiconductor and materials research"
+
+  - id: mit
+    kind: academic
+    org: Massachusetts Institute of Technology
+    unit: MIT Media Lab
+    place: Cambridge MA, United States
+    role: Research Scientist
+    dates: Sep. 2014 – Feb. 2016
+    bullets:
+      - Researched and developed the reading through a closed book proof of concept
+      - Researched and developed new algorithms for analyzing time-domain volumetric data
+      - Designed compact optical devices for portable eye diagnosis applications
+      - Wrote research grants and mentored Ph.D. students
+
+  - id: zomega
+    kind: industry
+    org: Zomega Terahertz Corporation
+    place: East Greenbush NY, United States
+    role: Director of Business Development
+    dates: Nov. 2011 – May 2014
+    bullets:
+      - Non-destructive testing applications with terahertz technology
+      - Prototypes to validate proof of concept applications
+      - Customers' needs and requirements collection and analysis
+
+  - id: rpi
+    kind: academic
+    org: Rensselaer Polytechnic Institute
+    place: Troy NY, United States
+    role: Research Assistant Professor
+    dates: Jul. 2010 – Nov. 2011 · Aug. 2004 – Aug. 2008
+    bullets:
+      - Invented a method to analyze terahertz spectra without the need of a reference
+      - Developed an ultrafast scanner for a fast terahertz imaging
+      - Developed a portable system for the non-destructive inspection of the Space Shuttle insulation
+      - Researched non-destructive testing applications with terahertz technology
+      - Researched statistical and machine-learning algorithms for spectral analysis
+      - Wrote research proposals and supervised Ph.D. students
+
+  - id: ub
+    kind: academic
+    org: University of Barcelona
+    place: Barcelona, Spain
+    role: Postdoctoral Associate
+    dates: Jul. 2009 – Jul. 2010
+    bullets:
+      - Researched the application of terahertz imaging technology for cultural heritage inspection
+      - Researched terahertz spectroscopy for pharmaceutical applications
+      - Established a laboratory for terahertz technology research
+
+education:
+  - degree: PhD in Applied Physics
+    org: University of Barcelona
+    place: Barcelona, Spain
+    dates: "2004"

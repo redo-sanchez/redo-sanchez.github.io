@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css">
+  <link rel="icon" type="image/svg+xml" href="{{ "/favicon.svg" | relative_url }}">
+  <style>
+    :root {
+      --ink: #0b1020;
+      --text: #1f2430;
+      --muted: #5b6474;
+      --accent: #3b5bdb;
+      --accent-2: #14b8a6;
+      --line: #e3e6ee;
+    }
+    @page {
+      size: A4;
+      margin: 14mm 15mm 16mm;
+      @bottom-right { content: "Page " counter(page) " of " counter(pages); font: 7.5pt "Inter", sans-serif; color: #5b6474; }
+    }
+    * { box-sizing: border-box; }
+    html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    body {
+      margin: 0;
+      background: #eef0f5;
+      color: var(--text);
+      font: 9.6pt/1.45 "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: var(--accent); text-decoration: none; }
+
+    /* screen-only toolbar */
+    .toolbar {
+      max-width: 210mm; margin: 16px auto 0; padding: 0 4px;
+      display: flex; justify-content: space-between; font: 14px "Inter", sans-serif;
+    }
+    .toolbar a { font-weight: 600; }
+    .toolbar .pdf { background: var(--ink); color: #fff; padding: 7px 14px; border-radius: 999px; }
+
+    .sheet {
+      max-width: 210mm; margin: 12px auto 32px; background: #fff;
+      padding: 14mm 15mm 16mm; box-shadow: 0 10px 40px rgba(16, 24, 40, 0.12);
+    }
+
+    header.cv-head {
+      display: flex; gap: 18px; align-items: center;
+      padding-bottom: 12px; margin-bottom: 4px;
+      border-bottom: 2px solid var(--ink);
+    }
+    header.cv-head img { width: 82px; height: 82px; border-radius: 50%; object-fit: cover; }
+    header.cv-head h1 { margin: 0; font-size: 23pt; font-weight: 800; letter-spacing: -0.02em; color: var(--ink); line-height: 1.1; }
+    .cv-role { margin: 3px 0 7px; font-size: 11pt; color: var(--muted); }
+    .cv-contact { display: flex; flex-wrap: wrap; gap: 3px 14px; font-size: 8.8pt; }
+    .cv-contact span, .cv-contact a { white-space: nowrap; color: var(--text); }
+    .cv-contact i { color: var(--accent); margin-right: 3px; }
+
+    h2 {
+      font-size: 11.5pt; font-weight: 800; text-transform: uppercase; letter-spacing: 0.07em;
+      color: var(--ink); margin: 16px 0 7px; padding-bottom: 3px;
+      border-bottom: 1px solid var(--line); break-after: avoid;
+    }
+    h2::before {
+      content: ""; display: inline-block; width: 9px; height: 9px; margin-right: 7px;
+      border-radius: 2px; background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    }
+    /* headings that come from the shared publication and talk lists */
+    .sub h2 {
+      font-size: 10.2pt; text-transform: none; letter-spacing: 0; font-weight: 700;
+      border-bottom: 0; margin: 12px 0 4px; color: var(--accent);
+    }
+    .sub h2::before { display: none; }
+
+    p { margin: 0 0 6px; }
+    .bio { font-size: 9.8pt; color: #374151; }
+
+    .entry { margin: 0 0 9px; break-inside: avoid; }
+    .entry-head { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+    .entry-title { font-weight: 700; color: var(--ink); font-size: 10.2pt; }
+    .entry-dates { font-weight: 600; color: var(--accent); white-space: nowrap; font-size: 9pt; text-align: right; }
+    .entry-sub { color: var(--muted); font-size: 9pt; margin-bottom: 2px; }
+    ul { margin: 2px 0 0; padding-left: 15px; }
+    li { margin: 1px 0; }
+
+    .chips { display: flex; flex-wrap: wrap; gap: 5px; }
+    .chips span { border: 1px solid var(--line); border-radius: 999px; padding: 1px 9px; font-size: 8.8pt; background: #f6f7fb; }
+
+    .skills { display: grid; grid-template-columns: 1fr 1fr; gap: 4px 18px; }
+    .skills div { break-inside: avoid; }
+    .skills b { color: var(--ink); }
+
+    .sub ol { margin: 2px 0 6px; padding-left: 22px; }
+    .sub ol li { margin: 0 0 4px; break-inside: avoid; }
+    .sub ol li::marker { color: var(--muted); font-size: 8.5pt; }
+    .sub small { color: var(--muted); font-size: 8pt; }
+    .sub > p { color: #374151; }
+
+    .cv-foot { margin-top: 18px; padding-top: 6px; border-top: 1px solid var(--line); font-size: 8pt; color: var(--muted); display: flex; justify-content: space-between; }
+
+    @media print {
+      body { background: #fff; }
+      .toolbar { display: none; }
+      .sheet { margin: 0; padding: 0; box-shadow: none; max-width: none; }
+    }
+    @media (max-width: 640px) {
+      .sheet { padding: 18px 16px; margin: 8px 0 24px; }
+      header.cv-head { flex-direction: column; align-items: flex-start; }
+      .entry-head { flex-direction: column; gap: 0; }
+      .skills { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="toolbar">
+    <a href="{{ '/' | relative_url }}">← {{ site.title }}</a>
+    <a class="pdf" href="{{ '/assets/cv/Albert_Redo-Sanchez_CV.pdf' | relative_url }}"><i class="fa-solid fa-file-arrow-down"></i> Download PDF</a>
+  </nav>
+  <main class="sheet">
+    {{ content }}
+  </main>
+</body>
+</html>

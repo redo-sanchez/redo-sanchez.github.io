@@ -1,0 +1,86 @@
+---
+layout: cv
+title: Curriculum Vitae
+permalink: /cv/
+description: Curriculum vitae of Albert Redo-Sanchez, Professor at Universidad de Zaragoza.
+---
+{%- comment -%}
+  Built from _data/positions.yml, _data/profile.yml and the shared publication
+  and talk lists, so it stays in step with the rest of the site.
+  Site-relative links are made absolute so they still work inside the PDF.
+{%- endcomment -%}
+{%- assign abs_href = 'href="' | append: site.url | append: '/' -%}
+
+<header class="cv-head">
+  <img src="{{ '/assets/images/foto_pro.jpg' | relative_url }}" alt="Albert Redo-Sanchez">
+  <div>
+    <h1>Albert Redo-Sanchez, PhD</h1>
+    <p class="cv-role">Professor · Universidad de Zaragoza · Graphics and Imaging Lab</p>
+    <div class="cv-contact">
+      <a href="mailto:aredo@unizar.es"><i class="fa-solid fa-envelope"></i>aredo@unizar.es</a>
+      <a href="tel:+34976761939"><i class="fa-solid fa-phone"></i>+34 976 76 19 39</a>
+      <a href="{{ site.url }}"><i class="fa-solid fa-globe"></i>redo-sanchez.github.io</a>
+      <a href="https://orcid.org/0000-0002-0601-4820"><i class="ai ai-orcid"></i>0000-0002-0601-4820</a>
+      <a href="https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en"><i class="ai ai-google-scholar"></i>Google Scholar</a>
+      <a href="https://www.linkedin.com/in/redosanchez/"><i class="fa-brands fa-linkedin"></i>redosanchez</a>
+    </div>
+  </div>
+</header>
+
+<h2>Profile</h2>
+<p class="bio">{{ site.data.profile.bio }}</p>
+
+<h2>Research areas</h2>
+<div class="chips">
+  {%- for area in site.data.profile.research_areas %}<span>{{ area }}</span>{% endfor %}
+</div>
+
+<h2>Experience</h2>
+{%- for pos in site.data.positions.positions %}
+<div class="entry">
+  <div class="entry-head">
+    <span class="entry-title">{{ pos.role }} · {{ pos.org }}</span>
+    <span class="entry-dates">{{ pos.dates | replace: ' · ', '<br>' }}</span>
+  </div>
+  <div class="entry-sub">{% if pos.unit %}{{ pos.unit }} · {% endif %}{{ pos.place }}</div>
+  <ul>
+    {%- for b in pos.bullets %}
+    {%- assign li = b | markdownify | remove: "<p>" | remove: "</p>" | strip | replace: 'href="/', abs_href %}
+    {%- unless li contains '>Teaching</a>' %}
+    <li>{{ li }}</li>
+    {%- endunless %}
+    {%- endfor %}
+  </ul>
+</div>
+{%- endfor %}
+
+<h2>Education</h2>
+{%- for ed in site.data.positions.education %}
+<div class="entry">
+  <div class="entry-head">
+    <span class="entry-title">{{ ed.degree }} · {{ ed.org }}</span>
+    <span class="entry-dates">{{ ed.dates }}</span>
+  </div>
+  <div class="entry-sub">{{ ed.place }}</div>
+</div>
+{%- endfor %}
+
+<h2>Skills</h2>
+<div class="skills">
+  {%- for sk in site.data.profile.skills %}
+  <div><b>{{ sk.title }}:</b> {{ sk.text }}</div>
+  {%- endfor %}
+</div>
+
+<h2>Publications and patents</h2>
+{%- capture pubs %}{% include publications-list.md %}{% endcapture %}
+<div class="sub">{{ pubs | markdownify | replace: 'href="/', abs_href }}</div>
+
+<h2>Talks</h2>
+{%- capture talks %}{% include talks.md %}{% endcapture %}
+<div class="sub">{{ talks | markdownify | replace: 'href="/', abs_href }}</div>
+
+<div class="cv-foot">
+  <span>Albert Redo-Sanchez · Curriculum Vitae</span>
+  <span>Updated {{ site.time | date: "%B %Y" }} · <a href="{{ site.url }}">redo-sanchez.github.io</a></span>
+</div>

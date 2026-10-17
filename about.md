@@ -14,6 +14,8 @@ Professor, [Graphics and Imaging Lab](https://graphics.unizar.es/)
 
 **Phone:** [+34 976 76 19 39](tel:+34976761939)
 
+**CV:** [Download PDF](/assets/cv/Albert_Redo-Sanchez_CV.pdf) · [View online](/cv/)
+
 **Profiles:**
 
 - [ORCID 0000-0002-0601-4820](https://orcid.org/0000-0002-0601-4820)

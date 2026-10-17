@@ -28,6 +28,7 @@ exclude:
   - README.md
   - LICENSE
   - vendor/
+  - scripts/
 
 # Build settings
 markdown: kramdown
