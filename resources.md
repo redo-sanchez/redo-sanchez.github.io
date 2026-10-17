@@ -5,7 +5,7 @@ permalink: /resources/
 description: Teaching materials and research tools from Albert Redo-Sanchez — courses at Universidad de Zaragoza, NLOS datasets, and the Transient Auxiliary Library (TAL).
 ---
 
-## Teaching at the Universidad de Zaragoza
+Courses, talk slides, and the datasets and tools used in our non-line-of-sight imaging research.
 
 <!--
 
@@ -15,18 +15,47 @@ description: Teaching materials and research tools from Albert Redo-Sanchez — 
 
 -->
 
-**Courses:**
+## Teaching at the Universidad de Zaragoza
 
-- [Computational Imaging [69155]](https://sia.unizar.es/documentos/doa/guiadocente/2026/69155_en.pdf)
-- [Fundamentos de informática [30007]](https://sia.unizar.es/documentos/doa/guiadocente/2026/30007_es.pdf)
+<div class="link-grid">
+  <a class="link-card" href="https://sia.unizar.es/documentos/doa/guiadocente/2026/69155_en.pdf">
+    <span class="icon"><i class="fa-solid fa-camera-retro"></i></span>
+    <span><span class="lc-title">Computational Imaging</span><span class="lc-meta">Course 69155 · Master in Robotics, Graphics and Computer Vision</span><span class="lc-text">Course guide, 2026/27 (English)</span></span>
+  </a>
+  <a class="link-card" href="https://sia.unizar.es/documentos/doa/guiadocente/2026/30007_es.pdf">
+    <span class="icon"><i class="fa-solid fa-laptop-code"></i></span>
+    <span><span class="lc-title">Fundamentos de informática</span><span class="lc-meta">Course 30007</span><span class="lc-text">Course guide, 2026/27 (Spanish)</span></span>
+  </a>
+</div>
 
-**Talks:**
+## Talks
 
-- [Reading a closed book](https://unizares-my.sharepoint.com/:p:/g/personal/aredo_unizar_es/EfSODC88q5dLiKdWH5kFt3QBkTvBd2UFPaYp6isq8q3Osw?e=yR9gau)
-- [What is light? (an informal talk)](https://unizares-my.sharepoint.com/:p:/g/personal/aredo_unizar_es/EROuMie942VGhj3RajsF3KAB5HVGBa_15-jfjMn4YTDRSA?e=Yg6N9O)
+<div class="link-grid">
+  <a class="link-card" href="https://unizares-my.sharepoint.com/:p:/g/personal/aredo_unizar_es/EfSODC88q5dLiKdWH5kFt3QBkTvBd2UFPaYp6isq8q3Osw?e=yR9gau">
+    <span class="icon"><i class="fa-solid fa-book"></i></span>
+    <span><span class="lc-title">Reading a closed book</span><span class="lc-meta">Slides</span><span class="lc-text">How terahertz imaging reads the pages of a closed book.</span></span>
+  </a>
+  <a class="link-card" href="https://unizares-my.sharepoint.com/:p:/g/personal/aredo_unizar_es/EROuMie942VGhj3RajsF3KAB5HVGBa_15-jfjMn4YTDRSA?e=Yg6N9O">
+    <span class="icon"><i class="fa-solid fa-lightbulb"></i></span>
+    <span><span class="lc-title">What is light?</span><span class="lc-meta">Slides · informal talk</span><span class="lc-text">An informal introduction to the nature of light.</span></span>
+  </a>
+</div>
 
-**Repositories:**
+## Tools and datasets
 
-- [**Zaragoza NLOS synthetic dataset**](https://graphics.unizar.es/nlos_dataset): synthetic non-line-of-sight scenes rendered using the publicly available transient renderer from Jarabo et al.'s work in [_A Framework for Transient Rendering_](http://giga.cps.unizar.es/~ajarabo/pubs/transientSIGA14/)
-- [**(Your)-Transient Auxiliary Library**](https://github.com/diegoroyo/tal): toolkit for simulation and analysis of time-resolved light transport captures
-- [**Mitsuba 3 - Physically Based Renderer**](https://www.mitsuba-renderer.org/): a research-oriented retargetable rendering system, written in portable C++17 on top of the Dr. Jit Just-In-Time compiler (developed by the [Realistic Graphics Lab](https://rgl.epfl.ch/) at EPFL)
+<div class="link-grid">
+  <a class="link-card" href="https://graphics.unizar.es/nlos_dataset">
+    <span class="icon"><i class="fa-solid fa-database"></i></span>
+    <span><span class="lc-title">Zaragoza NLOS synthetic dataset</span><span class="lc-meta">Dataset · Graphics and Imaging Lab</span><span class="lc-text">Synthetic non-line-of-sight scenes rendered with the transient renderer from Jarabo et al.'s <em>A Framework for Transient Rendering</em>.</span></span>
+  </a>
+  <a class="link-card" href="https://github.com/diegoroyo/tal">
+    <span class="icon"><i class="fa-solid fa-toolbox"></i></span>
+    <span><span class="lc-title">(Your)-Transient Auxiliary Library (TAL)</span><span class="lc-meta">Toolkit · by Diego Royo</span><span class="lc-text">Simulation and analysis of time-resolved light transport captures.</span></span>
+  </a>
+  <a class="link-card" href="https://www.mitsuba-renderer.org/">
+    <span class="icon"><i class="fa-solid fa-cube"></i></span>
+    <span><span class="lc-title">Mitsuba 3</span><span class="lc-meta">Renderer · Realistic Graphics Lab, EPFL</span><span class="lc-text">A research-oriented, retargetable physically based renderer in portable C++17, built on the Dr.Jit just-in-time compiler.</span></span>
+  </a>
+</div>
+
+The transient rendering framework behind the dataset is described in [_A Framework for Transient Rendering_](http://giga.cps.unizar.es/~ajarabo/pubs/transientSIGA14/) (Jarabo et al.).

@@ -1,0 +1,11 @@
+# "Recent highlights" on the home page, newest first. The first `limit`
+# entries are shown (set in index.md). `text` accepts Markdown.
+
+- when: "2026"
+  text: "*Transient polarimetry*, poster at SIGGRAPH 2026."
+- when: "2025"
+  text: "[*Artifact-resilient real-time holography*](https://doi.org/10.1145/3763361) published in ACM Transactions on Graphics."
+- when: "2024"
+  text: "[*Time-gated polarization for active non-line-of-sight imaging*](https://doi.org/10.1145/3680528.3687575) presented at SIGGRAPH Asia 2024, Tokyo."
+- when: "2024"
+  text: "Invited talk on the Dirac-notation framework for NLOS imaging at Optics, Photonics and Lasers, Valencia."

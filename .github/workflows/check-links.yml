@@ -1,0 +1,46 @@
+# Builds the site and checks every internal and external link.
+# Runs on each push, every Monday, and on demand; a failure lists the broken links
+# in the run summary.
+name: Check links
+
+on:
+  push:
+    branches: [gh-pages]
+  schedule:
+    - cron: "0 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build the site
+        run: bundle exec jekyll build --destination _site
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Many publisher and social sites refuse automated requests (403/429/999)
+          # even when the page exists, so those codes are not treated as broken.
+          args: >-
+            --root-dir "${{ github.workspace }}/_site"
+            --accept 200..=299,403,429,999
+            --max-retries 3
+            --timeout 30
+            --exclude "^mailto:"
+            --exclude "^tel:"
+            --exclude "fonts\\.(googleapis|gstatic)\\.com"
+            --exclude "^https://redo-sanchez\\.github\\.io"
+            "_site/**/*.html"
+          fail: true
+          jobSummary: true

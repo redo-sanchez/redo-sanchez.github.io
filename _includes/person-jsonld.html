@@ -1,0 +1,32 @@
+{%- comment -%}
+  schema.org Person record for search engines (home page only).
+  Built from _config.yml, _data/profile.yml and _data/positions.yml.
+{%- endcomment -%}
+{%- assign current = site.data.positions.positions | first -%}
+{%- assign phd = site.data.positions.education | first -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ site.title | jsonify }},
+  "honorificSuffix": "PhD",
+  "jobTitle": {{ current.role | jsonify }},
+  "worksFor": {
+    "@type": "CollegeOrUniversity",
+    "name": {{ current.org | jsonify }},
+    "department": { "@type": "Organization", "name": {{ current.unit | jsonify }}, "url": "https://graphics.unizar.es/" }
+  },
+  "alumniOf": { "@type": "CollegeOrUniversity", "name": {{ phd.org | jsonify }} },
+  "email": "mailto:{{ site.email }}",
+  "url": {{ site.url | append: "/" | jsonify }},
+  "image": {{ "/assets/images/foto_pro.jpg" | absolute_url | jsonify }},
+  "description": {{ site.data.profile.bio | jsonify }},
+  "knowsAbout": {{ site.data.profile.research_areas | jsonify }},
+  "sameAs": [
+    "https://orcid.org/0000-0002-0601-4820",
+    "https://scholar.google.com/citations?user=Wjhap7MAAAAJ",
+    "https://www.linkedin.com/in/{{ site.linkedin_username }}/",
+    "https://github.com/{{ site.github_username }}"
+  ]
+}
+</script>

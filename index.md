@@ -28,10 +28,9 @@ description: Albert Redo-Sanchez, Professor at Universidad de Zaragoza. Research
 ## Recent highlights
 
 <ul class="highlights">
-  <li><span class="when">2026</span><span><em>Transient polarimetry</em>, poster at SIGGRAPH 2026.</span></li>
-  <li><span class="when">2025</span><span><a href="https://doi.org/10.1145/3763361"><em>Artifact-resilient real-time holography</em></a> published in ACM Transactions on Graphics.</span></li>
-  <li><span class="when">2024</span><span><a href="https://doi.org/10.1145/3680528.3687575"><em>Time-gated polarization for active non-line-of-sight imaging</em></a> presented at SIGGRAPH Asia 2024, Tokyo.</span></li>
-  <li><span class="when">2024</span><span>Invited talk on the Dirac-notation framework for NLOS imaging at Optics, Photonics and Lasers, Valencia.</span></li>
+  {%- for item in site.data.news limit: 5 %}
+  <li><span class="when">{{ item.when }}</span><span>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</span></li>
+  {%- endfor %}
 </ul>
 
 ## Projects

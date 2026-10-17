@@ -1,0 +1,52 @@
+# Regenerates assets/cv/Albert_Redo-Sanchez_CV.pdf whenever its sources change,
+# and commits the new PDF to the branch. Can also be run by hand from the Actions tab.
+name: Build CV PDF
+
+on:
+  push:
+    branches: [gh-pages]
+    paths:
+      - "_data/positions.yml"
+      - "_data/profile.yml"
+      - "_includes/publications-list.md"
+      - "_includes/talks.md"
+      - "_layouts/cv.html"
+      - "cv.html"
+      - "assets/images/foto_pro.jpg"
+      - "scripts/build-cv.sh"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-cv
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Generate the PDF
+        env:
+          CHROME: google-chrome
+        run: ./scripts/build-cv.sh
+
+      - name: Commit the PDF if it changed
+        run: |
+          if git diff --quiet -- assets/cv/; then
+            echo "CV PDF unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/cv/Albert_Redo-Sanchez_CV.pdf
+          git commit -m "Rebuild CV PDF"
+          git push
