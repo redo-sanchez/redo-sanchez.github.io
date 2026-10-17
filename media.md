@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Media & Videos
+title: Media
 permalink: /media/
 description: TEDx talks and Harvard Sightlines presentations by Albert Redo-Sanchez on computational imaging and unlimited vision.
 ---

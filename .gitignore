@@ -105,3 +105,6 @@ Backups.backupdb
 MobileBackups.trash
 tmbootpicker.efi
 .DS_Store
+
+# Source slide decks (the site serves PDF exports and extracted videos)
+assets/media/*.pptx

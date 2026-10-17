@@ -19,6 +19,10 @@ header_pages:
   - resources.md
   - about.md
 
+# Source slide decks are not published; the PDF exports are
+exclude:
+  - assets/media/*.pptx
+
 # Build settings
 markdown: kramdown
 theme: minima

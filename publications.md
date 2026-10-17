@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications & Patents
+title: Publications
 permalink: /publications/
 description: Journal papers, conference papers, and patents by Albert Redo-Sanchez in NLOS imaging, terahertz technology, and optical systems.
 ---

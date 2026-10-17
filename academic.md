@@ -35,7 +35,12 @@ _Research Scientist_
 
 <iframe style="width:100%; aspect-ratio:16/9; border:0" loading="lazy" src="https://www.youtube.com/embed/juewG4ptU0s?si=gJDg5VVdBtGJLWr9" title="MIT research video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe src="https://onedrive.live.com/embed?resid=F5F1ECEA6F58D121%21598240&authkey=!ACCjyHzywylVvkE&em=2" title="MIT research media" style="width:100%; aspect-ratio:16/9; border:0" loading="lazy" scrolling="no"></iframe>
+{% include slides.html pdf="/assets/media/Portfolio_MIT.pdf" title="MIT research" %}
+
+<video controls preload="metadata" style="width:100%" title="Reading a book without opening it">
+  <source src="{{ '/assets/media/Portfolio_MIT_video.mp4' | relative_url }}" type="video/mp4">
+  <a href="{{ '/assets/media/Portfolio_MIT_video.mp4' | relative_url }}">Download the video (Reading a book without opening it)</a>
+</video>
 
 
 ## Rensselaer Polytechnic Institute
@@ -51,7 +56,22 @@ _Research Assistant Professor_
 
 <iframe style="width:100%; aspect-ratio:16/9; border:0" loading="lazy" src="https://www.youtube.com/embed/tBfOFX6Mmus?si=UQu_9oC_ia_MEfBJ" title="Rensselaer Polytechnic Institute research video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe src="https://onedrive.live.com/embed?resid=F5F1ECEA6F58D121%21598142&authkey=!AHc0io9d3dXoZK8&em=2" title="Rensselaer Polytechnic Institute research media" style="width:100%; aspect-ratio:16/9; border:0" loading="lazy" scrolling="no"></iframe>
+{% include slides.html pdf="/assets/media/Portfolio_RPI.pdf" title="Rensselaer Polytechnic Institute research" %}
+
+<video controls preload="metadata" style="width:100%" title="Terahertz shoe scanner: design">
+  <source src="{{ '/assets/media/Portfolio_RPI_video1.mp4' | relative_url }}" type="video/mp4">
+  <a href="{{ '/assets/media/Portfolio_RPI_video1.mp4' | relative_url }}">Download the video (Terahertz shoe scanner: design)</a>
+</video>
+
+<video controls preload="metadata" style="width:100%" title="Terahertz shoe scanner: linear scanning">
+  <source src="{{ '/assets/media/Portfolio_RPI_video2.mp4' | relative_url }}" type="video/mp4">
+  <a href="{{ '/assets/media/Portfolio_RPI_video2.mp4' | relative_url }}">Download the video (Terahertz shoe scanner: linear scanning)</a>
+</video>
+
+<video controls preload="metadata" style="width:100%" title="Terahertz shoe scanner: circular scanning">
+  <source src="{{ '/assets/media/Portfolio_RPI_video3.mp4' | relative_url }}" type="video/mp4">
+  <a href="{{ '/assets/media/Portfolio_RPI_video3.mp4' | relative_url }}">Download the video (Terahertz shoe scanner: circular scanning)</a>
+</video>
 
 
 ## University of Barcelona
@@ -62,7 +82,7 @@ _Postdoctoral Associate_
 - Researched terahertz spectroscopy for pharmaceutical applications
 - Established a laboratory for terahertz technology research
 
-<iframe src="https://onedrive.live.com/embed?resid=F5F1ECEA6F58D121%21598140&authkey=!AL_rMcHPf6tqG44&em=2" title="University of Barcelona research media" style="width:100%; aspect-ratio:16/9; border:0" loading="lazy" scrolling="no"></iframe>
+{% include slides.html pdf="/assets/media/Portfolio_UB.pdf" title="University of Barcelona research" %}
 
 
 ## Invited talks

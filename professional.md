@@ -29,7 +29,7 @@ _Feb. 2021 – Sep. 2023 (remote)_
 - [**NOTUS:**](https://das-nano.com/notus-terahertz-technology/) system for multi-layer thickness and adherence characterization of composite structures
 - [**ONYX:**](https://das-nano.com/onyx-terahertz-technology/) system for 2D materials characterization for the semiconductor and materials research
 
-<iframe src="https://onedrive.live.com/embed?resid=F5F1ECEA6F58D121%21598138&authkey=!AOmK_Md4uyqHLrs&em=2" title="das-Nano products media" style="width:100%; aspect-ratio:16/9; border:0" loading="lazy" scrolling="no"></iframe>
+{% include slides.html pdf="/assets/media/Portfolio_DNN.pdf" title="das-Nano products" %}
 
 
 ## Director of Business Development at Zomega Terahertz Corporation
@@ -38,4 +38,4 @@ _Feb. 2021 – Sep. 2023 (remote)_
 - Prototypes to validate proof of concept applications
 - Customers' needs and requirements collection and analysis
 
-<iframe src="https://onedrive.live.com/embed?resid=F5F1ECEA6F58D121%21598141&authkey=!AD767_MFAdVxtVA&em=2" title="Zomega Terahertz Corporation media" style="width:100%; aspect-ratio:16/9; border:0" loading="lazy" scrolling="no"></iframe>
+{% include slides.html pdf="/assets/media/Portfolio_Zomega.pdf" title="Zomega Terahertz Corporation" %}
