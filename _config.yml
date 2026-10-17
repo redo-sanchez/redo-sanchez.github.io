@@ -12,6 +12,7 @@ author: Albert Redo-Sanchez
 
 header_pages:
   - index.md
+  - projects.md
   - academic.md
   - professional.md
   - publications.md
@@ -19,9 +20,14 @@ header_pages:
   - resources.md
   - about.md
 
-# Source slide decks are not published; the PDF exports are
+# Not published: source slide decks (the PDF exports are) and repo files
 exclude:
   - assets/media/*.pptx
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor/
 
 # Build settings
 markdown: kramdown

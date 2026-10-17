@@ -1,0 +1,87 @@
+# Project cards shown on the home page (title, tag, hook, links)
+# and the Projects page (adds the longer description).
+
+- title: Seeing around corners
+  tag: Universidad de Zaragoza · NLOS imaging
+  image: /assets/images/projects/nlos.svg
+  alt: Diagram of non-line-of-sight imaging, with light bouncing off a relay wall to reach a hidden object
+  hook: Reconstructing scenes hidden from view using light that bounces off a visible wall.
+  description: >-
+    Non-line-of-sight (NLOS) imaging recovers objects that are hidden from direct view by
+    measuring how ultrafast light pulses scatter off a visible relay wall and return over time.
+    This line of work includes NLOS imaging through scattering media with phasor fields, a
+    cohesive framework for NLOS imaging based on Dirac notation, and time-gated polarization for
+    active NLOS imaging.
+  links:
+    - { label: Optics Letters 2022, url: "https://doi.org/10.1364/ol.463296" }
+    - { label: Optics Express 2024, url: "https://doi.org/10.1364/oe.518466" }
+    - { label: SIGGRAPH Asia 2024, url: "https://doi.org/10.1145/3680528.3687575" }
+    - { label: Dataset, url: "https://graphics.unizar.es/nlos_dataset" }
+
+- title: Reading a closed book
+  tag: MIT Media Lab · Nature Communications 2016
+  image: /assets/images/projects/closed-book.jpg
+  alt: Hands holding a stack of paper pages, each marked with a letter
+  hook: Reading letters on the pages of a closed stack of paper with terahertz time-gated spectral imaging.
+  description: >-
+    Terahertz pulses travel through paper and reflect weakly at each page boundary. By separating
+    those reflections in time and analysing their spectral content, the letters printed on
+    successive pages of a closed stack can be extracted without opening it, with applications
+    to the inspection of fragile historical documents.
+  links:
+    - { label: Paper, url: "https://doi.org/10.1038/ncomms12665" }
+    - { label: TEDx talk, url: "/media/" }
+    - { label: Slides & video, url: "/academic/#massachusetts-institute-of-technology" }
+
+- title: Terahertz look at Goya
+  tag: University of Barcelona · Optics Express 2013
+  image: /assets/images/projects/goya.jpg
+  alt: Goya's painting The Sacrifice to Vesta shown next to its X-ray and terahertz images
+  hook: Revealing hidden features of Goya's "The Sacrifice to Vesta" (1771) with terahertz waves.
+  description: >-
+    Terahertz imaging of Goya's "The Sacrifice to Vesta" (1771) reveals features beneath the
+    paint layers that complement X-ray radiography, including the painter's signature. This work
+    is part of a broader research line on terahertz inspection for cultural heritage.
+  links:
+    - { label: Paper, url: "https://doi.org/10.1364/oe.21.017800" }
+    - { label: Slides, url: "/academic/#university-of-barcelona" }
+
+- title: High-speed terahertz scanner
+  tag: Rensselaer Polytechnic Institute
+  image: /assets/images/projects/shoe-scanner.jpg
+  alt: Terahertz scanner prototype projecting a red scan line onto a test target
+  hook: An ellipsoidal-mirror terahertz scanner imaging large areas at up to 250 frames per second.
+  description: >-
+    A fast terahertz imaging system that combines an ellipsoidal mirror with resonant and regular
+    galvanometers to sweep the beam over large areas, reaching up to 250 frames per second. It was
+    designed, modelled and validated through two prototype generations, with linear and circular
+    scanning modes.
+  links:
+    - { label: Slides & videos, url: "/academic/#rensselaer-polytechnic-institute" }
+
+- title: Space Shuttle foam inspection
+  tag: Rensselaer Polytechnic Institute
+  image: /assets/images/projects/shuttle-foam.jpg
+  alt: Sample of Space Shuttle external-tank insulation foam
+  hook: A portable terahertz system for non-destructive inspection of Space Shuttle insulation foam.
+  description: >-
+    Terahertz waves penetrate low-density foam, making it possible to find voids and defects inside
+    spray-on insulation without damaging it. This project developed a portable terahertz system for
+    the non-destructive inspection of Space Shuttle insulation.
+  links:
+    - { label: Slides, url: "/academic/#rensselaer-polytechnic-institute" }
+
+- title: Terahertz systems for industry
+  tag: das-Nano
+  image: /assets/images/projects/das-nano.jpg
+  alt: das-Nano Onyx terahertz system for 2D materials characterization
+  hook: Commercial terahertz instruments for 2D materials, composites and automotive paint.
+  description: >-
+    As Director of Terahertz Technology at das-Nano, led the development of commercial terahertz
+    systems: Onyx for 2D materials characterization, Notus for multi-layer thickness and adherence
+    of composite structures, and Irys for non-contact multi-layer thickness measurement in the
+    automotive industry.
+  links:
+    - { label: Onyx, url: "https://das-nano.com/onyx-terahertz-technology/" }
+    - { label: Notus, url: "https://das-nano.com/notus-terahertz-technology/" }
+    - { label: Irys, url: "https://das-nano.com/products/irys/" }

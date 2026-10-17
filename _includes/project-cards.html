@@ -1,0 +1,24 @@
+{%- comment -%}
+  Project cards from _data/projects.yml.
+  include.detailed=true shows the long description in wide cards (Projects page);
+  otherwise a compact grid with the short hook (home page).
+{%- endcomment -%}
+<div class="{% if include.detailed %}project-list{% else %}card-grid{% endif %}">
+  {%- for p in site.data.projects %}
+  <article class="card">
+    <div class="card-media">
+      <img src="{{ p.image | relative_url }}" alt="{{ p.alt }}" loading="lazy">
+    </div>
+    <div class="card-body">
+      <div class="card-tag">{{ p.tag }}</div>
+      <h3>{{ p.title }}</h3>
+      <p>{% if include.detailed %}{{ p.description }}{% else %}{{ p.hook }}{% endif %}</p>
+      <div class="card-links">
+        {%- for l in p.links %}
+        <a href="{% if l.url contains '://' %}{{ l.url }}{% else %}{{ l.url | relative_url }}{% endif %}"><i class="fa-solid fa-arrow-up-right-from-square fa-xs"></i>{{ l.label }}</a>
+        {%- endfor %}
+      </div>
+    </div>
+  </article>
+  {%- endfor %}
+</div>
