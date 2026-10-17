@@ -5,7 +5,7 @@ permalink: /resources/
 description: Teaching materials and research tools from Albert Redo-Sanchez — courses at Universidad de Zaragoza, NLOS datasets, and the Transient Auxiliary Library (TAL).
 ---
 
-Courses, talk slides, and the datasets and tools used in our non-line-of-sight imaging research.
+Courses, plus the datasets and tools used in our non-line-of-sight imaging research.
 
 <!--
 
@@ -25,19 +25,6 @@ Courses, talk slides, and the datasets and tools used in our non-line-of-sight i
   <a class="link-card" href="https://sia.unizar.es/documentos/doa/guiadocente/2026/30007_es.pdf">
     <span class="icon"><i class="fa-solid fa-laptop-code"></i></span>
     <span><span class="lc-title">Fundamentos de informática</span><span class="lc-meta">Course 30007</span><span class="lc-text">Course guide, 2026/27 (Spanish)</span></span>
-  </a>
-</div>
-
-## Talks
-
-<div class="link-grid">
-  <a class="link-card" href="https://unizares-my.sharepoint.com/:p:/g/personal/aredo_unizar_es/EfSODC88q5dLiKdWH5kFt3QBkTvBd2UFPaYp6isq8q3Osw?e=yR9gau">
-    <span class="icon"><i class="fa-solid fa-book"></i></span>
-    <span><span class="lc-title">Reading a closed book</span><span class="lc-meta">Slides</span><span class="lc-text">How terahertz imaging reads the pages of a closed book.</span></span>
-  </a>
-  <a class="link-card" href="https://unizares-my.sharepoint.com/:p:/g/personal/aredo_unizar_es/EROuMie942VGhj3RajsF3KAB5HVGBa_15-jfjMn4YTDRSA?e=Yg6N9O">
-    <span class="icon"><i class="fa-solid fa-lightbulb"></i></span>
-    <span><span class="lc-title">What is light?</span><span class="lc-meta">Slides · informal talk</span><span class="lc-text">An informal introduction to the nature of light.</span></span>
   </a>
 </div>
 
