@@ -89,6 +89,14 @@ positions:
       - Researched terahertz spectroscopy for pharmaceutical applications
       - Established a laboratory for terahertz technology research
 
+  - id: leitat
+    kind: industry
+    org: Leitat Technological Center
+    unit: European Project Office
+    place: Terrassa, Spain
+    role: Project Manager
+    dates: Sep. 2008 – Jun. 2009
+
 education:
   - degree: PhD in Applied Physics
     org: University of Barcelona

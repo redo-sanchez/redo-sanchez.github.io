@@ -23,6 +23,7 @@
       size: A4;
       margin: 14mm 15mm 16mm;
       @bottom-right { content: "Page " counter(page) " of " counter(pages); font: 7.5pt "Inter", sans-serif; color: #5b6474; }
+      @bottom-left { content: "Albert Redo-Sanchez · Curriculum Vitae · Updated {{ site.time | date: "%B %Y" }}"; font: 7.5pt "Inter", sans-serif; color: #5b6474; }
     }
     * { box-sizing: border-box; }
     html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
@@ -104,7 +105,7 @@
 
     @media print {
       body { background: #fff; }
-      .toolbar { display: none; }
+      .toolbar, .cv-foot { display: none; }
       .sheet { margin: 0; padding: 0; box-shadow: none; max-width: none; }
     }
     @media (max-width: 640px) {

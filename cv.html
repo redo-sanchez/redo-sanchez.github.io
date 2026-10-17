@@ -43,6 +43,7 @@ description: Curriculum vitae of Albert Redo-Sanchez, Professor at Universidad d
     <span class="entry-dates">{{ pos.dates | replace: ' · ', '<br>' }}</span>
   </div>
   <div class="entry-sub">{% if pos.unit %}{{ pos.unit }} · {% endif %}{{ pos.place }}</div>
+  {%- if pos.bullets %}
   <ul>
     {%- for b in pos.bullets %}
     {%- assign li = b | markdownify | remove: "<p>" | remove: "</p>" | strip | replace: 'href="/', abs_href %}
@@ -51,6 +52,7 @@ description: Curriculum vitae of Albert Redo-Sanchez, Professor at Universidad d
     {%- endunless %}
     {%- endfor %}
   </ul>
+  {%- endif %}
 </div>
 {%- endfor %}
 

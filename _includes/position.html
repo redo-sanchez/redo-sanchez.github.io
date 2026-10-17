@@ -6,15 +6,19 @@
 <div class="tl-meta">
   {%- unless include.hide_role %}
   <span class="tl-role">{{ pos.role }}{% if pos.unit %} · {{ pos.unit }}{% endif %}</span>
-  {%- endunless %}
+  {%- else %}{% if pos.unit %}
+  <span class="tl-role">{{ pos.unit }}</span>
+  {%- endif %}{% endunless %}
   <span class="tl-dates"><i class="fa-regular fa-calendar"></i> {{ pos.dates }}</span>
   <span class="tl-place"><i class="fa-solid fa-location-dot"></i> {{ pos.place }}</span>
 </div>
+{%- if pos.bullets %}
 <ul>
   {%- for b in pos.bullets %}
   <li>{{ b | markdownify | remove: "<p>" | remove: "</p>" | strip }}</li>
   {%- endfor %}
 </ul>
+{%- endif %}
 {%- if pos.links %}
 <p class="tl-links">
   {%- for l in pos.links %}
