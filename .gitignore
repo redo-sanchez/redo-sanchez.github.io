@@ -108,3 +108,6 @@ tmbootpicker.efi
 
 # Source slide decks (the site serves PDF exports and extracted videos)
 assets/media/*.pptx
+
+# Claude Code local settings
+.claude/
